@@ -1,6 +1,6 @@
 # 승인 후 공개 절차 · 실행하지 않은 명령서
 
-현재는 로컬 완성 단계이며 아래 외부 공개 명령은 실행하지 않았다. **사용자가 저장소 공개·push·Pages 설정·배포 범위를 승인한 후에만** 실행한다. GitHub CLI의 공식 로그인 절차를 사용하고 인증 정보를 파일이나 명령 출력으로 추출하지 않는다.
+2026-10-22 사용자 승인(DECISIONS U-5)으로 첫 공개를 마쳤다. 결과는 맨 아래 "7. 공개 기록"에 있다. 다시 공개하거나 되돌릴 때도 **사용자가 해당 범위를 승인한 후에만** 아래 외부 공개 명령을 실행한다. GitHub CLI의 공식 로그인 절차를 사용하고 인증 정보를 파일이나 명령 출력으로 추출하지 않는다.
 
 ## 1. 사전 점검 — 공개하지 않음
 
@@ -94,3 +94,18 @@ git rev-parse HEAD
 ```
 
 되돌림 커밋의 SHA와 공개 응답을 비교한다. 여러 커밋이 원인이면 임의로 `HEAD`만 되돌리지 말고 대상 범위를 검토한다. 첫 공개라 이전 정상 배포본이 없는 경우 사이트 비공개 전환이나 Pages 제거는 별도 승인 대상이다. 공개 취소가 이미 복제된 자료의 회수를 보장하지 않는다.
+
+## 7. 공개 기록
+
+| 항목 | 내용 |
+| --- | --- |
+| 공개일 | 2026-10-22 (사용자 승인 U-5) |
+| 저장소 | https://github.com/xoxo787/gomin-pick (public) |
+| 사이트 | https://xoxo787.github.io/gomin-pick/ |
+| 첫 공개 SHA | `cfcc2d1bd4fe9711f8c649de09af3bffcbaef374` |
+| CI | 성공 — https://github.com/xoxo787/gomin-pick/actions/runs/39785961233 |
+| Deploy Pages | 성공(build·deploy) — https://github.com/xoxo787/gomin-pick/actions/runs/39785961250 |
+| 공개 응답 | `version.json`의 `commit`이 위 SHA와 일치, `products: 27` |
+| 화면 확인 | 1280px·375px에서 콘솔 메시지 0, 외부 리소스 요청 0, 가로 넘침 0 |
+
+Pages 설정(POST)이 push로 시작된 첫 배포의 배포 단계보다 먼저 끝나 첫 배포가 성공했다. 그래서 4단계의 `gh workflow run deploy.yml` 재실행은 하지 않았다.
