@@ -1,0 +1,72 @@
+[
+  {
+    "id": "moisture",
+    "label": "보습",
+    "hint": "비교를 위한 테스트 선택지",
+    "evidence_ingredient_ids": [
+      "ceramide"
+    ],
+    "functional_category": null,
+    "order": 1
+  },
+  {
+    "id": "soothing",
+    "label": "진정·민감",
+    "hint": "비교를 위한 테스트 선택지",
+    "evidence_ingredient_ids": [
+      "ceramide"
+    ],
+    "functional_category": null,
+    "order": 2
+  },
+  {
+    "id": "trouble",
+    "label": "트러블",
+    "hint": "비교를 위한 테스트 선택지",
+    "evidence_ingredient_ids": [
+      "ceramide"
+    ],
+    "functional_category": null,
+    "order": 3
+  },
+  {
+    "id": "brightening",
+    "label": "미백·잡티",
+    "hint": "비교를 위한 테스트 선택지",
+    "evidence_ingredient_ids": [
+      "ceramide"
+    ],
+    "functional_category": null,
+    "order": 4
+  },
+  {
+    "id": "wrinkle",
+    "label": "주름·탄력",
+    "hint": "비교를 위한 테스트 선택지",
+    "evidence_ingredient_ids": [
+      "ceramide"
+    ],
+    "functional_category": null,
+    "order": 5
+  },
+  {
+    "id": "pore",
+    "label": "모공·피지",
+    "hint": "비교를 위한 테스트 선택지",
+    "evidence_ingredient_ids": [
+      "ceramide"
+    ],
+    "functional_category": null,
+    "order": 6
+  },
+  {
+    "id": "sun",
+    "label": "자외선 차단",
+    "hint": "비교를 위한 테스트 선택지",
+    "evidence_ingredient_ids": [
+      "ceramide"
+    ],
+    "functional_category": null,
+    "order": 7
+  }
+]

@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="피부 고민별로 다이소·올리브영 제품의 성분 근거와 단위가격을 비교하는 기록, 고민픽." />
+    <meta name="referrer" content="no-referrer" />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="icon" href="data:," />
+    <title>고민픽 — 성분과 가격, 근거부터</title>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">본문으로 건너뛰기</a>
+    <header class="site-header page-width">
+      <a class="wordmark" href="./" aria-label="고민픽 처음으로">고민픽<span class="wordmark-rule" aria-hidden="true"></span></a>
+      <span class="header-description">피부 고민별 성분·가격 기록</span>
+      <div class="theme-controls">
+        <button type="button" id="theme-toggle" class="quiet-button">다크 모드</button>
+        <button type="button" id="theme-reset" class="quiet-button" hidden>자동</button>
+      </div>
+    </header>
+    <main id="main" class="page-width" tabindex="-1">
+      <div id="app"></div>
+      <noscript><p class="empty-state">비교 화면을 보려면 브라우저에서 JavaScript를 사용할 수 있어야 합니다.</p></noscript>
+    </main>
+    <footer class="site-footer page-width" aria-label="이용 안내">
+      <div class="footer-heading"><strong>읽기 전에, 꼭 확인하세요.</strong><span class="micro-label">READ THE LABEL</span></div>
+      <ol class="disclaimers">
+        <li data-testid="disclaimer">의료 조언이 아닙니다. 화장품 사용에는 개인차가 있으므로 패치테스트를 권장합니다.</li>
+        <li data-testid="disclaimer">가격은 확인일 기준이며 변동될 수 있습니다. 실제 구매 가격은 구매처에서 확인하세요.</li>
+        <li data-testid="disclaimer">올리브영·다이소와 제휴하지 않습니다. 제휴 링크를 사용하지 않습니다.</li>
+        <li data-testid="disclaimer">화장품법상 효능 표현에 유의합니다. 이 정보는 질병 관련 효능이나 특정 결과를 보장하지 않습니다.</li>
+      </ol>
+      <p class="footer-signature">고민픽 <span>성분과 가격, 근거부터.</span></p>
+    </footer>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

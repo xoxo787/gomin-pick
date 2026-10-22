@@ -1,0 +1,83 @@
+[
+  {
+    "id": "moisture",
+    "label": "보습",
+    "hint": "건조함이 신경 쓰일 때 보습 성분과 용량을 살펴봐요.",
+    "evidence_ingredient_ids": [
+      "ceramide-np",
+      "hyaluronic-acid",
+      "panthenol",
+      "glycerin"
+    ],
+    "functional_category": null,
+    "order": 1
+  },
+  {
+    "id": "soothing",
+    "label": "진정·민감",
+    "hint": "진정 제품의 성분과 향료·에탄올 확인 여부를 살펴봐요.",
+    "evidence_ingredient_ids": [
+      "centella-asiatica",
+      "madecassoside",
+      "panthenol",
+      "allantoin"
+    ],
+    "functional_category": null,
+    "order": 2
+  },
+  {
+    "id": "trouble",
+    "label": "트러블",
+    "hint": "트러블 관련 제품의 출처와 확인된 성분을 비교해요.",
+    "evidence_ingredient_ids": [
+      "salicylic-acid",
+      "centella-asiatica",
+      "panthenol"
+    ],
+    "functional_category": "acne",
+    "order": 3
+  },
+  {
+    "id": "brightening",
+    "label": "미백·잡티",
+    "hint": "관련 고시 성분과 제품의 기능성 확인 여부를 구분해요.",
+    "evidence_ingredient_ids": [
+      "niacinamide"
+    ],
+    "functional_category": "whitening",
+    "order": 4
+  },
+  {
+    "id": "wrinkle",
+    "label": "주름·탄력",
+    "hint": "주름 관련 고시 성분과 탄력 제품의 근거를 살펴봐요.",
+    "evidence_ingredient_ids": [
+      "retinol",
+      "adenosine"
+    ],
+    "functional_category": "wrinkle",
+    "order": 5
+  },
+  {
+    "id": "pore",
+    "label": "모공·피지",
+    "hint": "피부결·피지 관련 제품의 가격과 확인된 성분을 비교해요.",
+    "evidence_ingredient_ids": [
+      "salicylic-acid",
+      "niacinamide"
+    ],
+    "functional_category": null,
+    "order": 6
+  },
+  {
+    "id": "sun",
+    "label": "자외선 차단",
+    "hint": "차단 성분의 고시 근거와 제품 정보 확인 여부를 살펴봐요.",
+    "evidence_ingredient_ids": [
+      "zinc-oxide",
+      "titanium-dioxide"
+    ],
+    "functional_category": "uv",
+    "order": 7
+  }
+]

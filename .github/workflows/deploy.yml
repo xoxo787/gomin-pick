@@ -1,0 +1,80 @@
+name: Deploy Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+    concurrency:
+      group: pages-build
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@395ad3262231945c25e8478fd5baf05154b1d79f # v6.1.0
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - run: npm run lint
+      - run: npm test -- --maxWorkers=1
+      - run: npm run validate-data
+      - run: npm run build
+      - uses: actions/upload-pages-artifact@7b1f4a764d45c48632c6b24a0339c27f5614fb0b # v4.0.0
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    concurrency:
+      group: pages-deployment
+      cancel-in-progress: false
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy artifact
+        id: deployment
+        uses: actions/deploy-pages@d6db90164ac5ed86f2b6aed7e0febac5b3c0c03e # v4.0.5
+      - name: Verify deployed commit
+        env:
+          EXPECTED_COMMIT: ${{ github.sha }}
+          VERSION_URL: https://xoxo787.github.io/gomin-pick/version.json
+        shell: bash
+        run: |
+          work_dir="$(mktemp -d)"
+          for attempt in {1..10}; do
+            if curl --fail --silent --show-error --max-time 20 --retry 2 \
+              "$VERSION_URL?commit=$EXPECTED_COMMIT&attempt=$attempt" \
+              --output "$work_dir/version.json"; then
+              if jq --exit-status --arg sha "$EXPECTED_COMMIT" '.commit == $sha' \
+                "$work_dir/version.json" > /dev/null; then
+                echo "Published commit verified: $EXPECTED_COMMIT"
+                echo "Published commit verified: $EXPECTED_COMMIT" >> "$GITHUB_STEP_SUMMARY"
+                exit 0
+              fi
+            fi
+            echo "Version check attempt $attempt/10 did not match; retrying in 15 seconds."
+            sleep 15
+          done
+          echo "::error::Published version.json does not match $EXPECTED_COMMIT"
+          exit 1

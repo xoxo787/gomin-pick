@@ -1,0 +1,272 @@
+[
+  {
+    "id": "ceramide-np",
+    "name_ko": "세라마이드 NP",
+    "name_inci": "Ceramide NP",
+    "aliases": [
+      "세라마이드엔피",
+      "Ceramide NP"
+    ],
+    "concern_ids": [
+      "moisture"
+    ],
+    "functional": null,
+    "evidence": {
+      "status": "reference",
+      "note": "에스트라 공식 제품 전성분에서 확인한 보습 제품의 성분. 원료 존재와 완제품 사용감은 별개다.",
+      "source_url": "https://www.aestura.com/m/product/view.do?prdSeq=1021&searchText=365"
+    }
+  },
+  {
+    "id": "hyaluronic-acid",
+    "name_ko": "히알루론산계",
+    "name_inci": null,
+    "aliases": [
+      "히알루론산",
+      "하이알루론산",
+      "소듐하이알루로네이트",
+      "Hyaluronic Acid",
+      "Sodium Hyaluronate"
+    ],
+    "concern_ids": [
+      "moisture"
+    ],
+    "functional": null,
+    "evidence": {
+      "status": "reference",
+      "note": "메디필 공식 전성분의 소듐하이알루로네이트를 확인. 히알루론산계의 여러 형태를 묶은 검색용 분류로 단일 INCI명이 아니다.",
+      "source_url": "https://medipeel.co.kr/product/%EB%8B%A4%EC%9D%B4%EC%86%8C-%EC%A0%84%EC%9A%A9-%EC%97%91%EC%8A%A4%ED%8A%B8%EB%9D%BC-%EC%8A%88%ED%8D%BC-9-%ED%94%8C%EB%9F%AC%EC%8A%A4-%EB%AC%BC%EA%B4%91-%EB%A6%AC%ED%94%84%ED%8C%85-%EB%9E%A9%ED%95%91-%EB%A7%88%EC%8A%A4%ED%81%AC4ml4ea/3299/"
+    }
+  },
+  {
+    "id": "panthenol",
+    "name_ko": "판테놀",
+    "name_inci": "Panthenol",
+    "aliases": [
+      "D-판테놀",
+      "Panthenol"
+    ],
+    "concern_ids": [
+      "moisture",
+      "soothing",
+      "trouble"
+    ],
+    "functional": null,
+    "evidence": {
+      "status": "reference",
+      "note": "CJ 공식 브랜드 소개의 민감 피부용 크림미스트 설명에 판테놀이 명시돼 있다. 완제품별 함량은 미확인.",
+      "source_url": "https://corp.oliveyoung.com/ko/business/brand/boh"
+    }
+  },
+  {
+    "id": "glycerin",
+    "name_ko": "글리세린",
+    "name_inci": "Glycerin",
+    "aliases": [
+      "글리세롤",
+      "Glycerin",
+      "Glycerol"
+    ],
+    "concern_ids": [
+      "moisture"
+    ],
+    "functional": null,
+    "evidence": {
+      "status": "reference",
+      "note": "에스트라 공식 보습 크림의 전성분에서 확인했다. 성분 표기 순서만으로 함량을 추정하지 않았다.",
+      "source_url": "https://www.aestura.com/m/product/view.do?prdSeq=1021&searchText=365"
+    }
+  },
+  {
+    "id": "centella-asiatica",
+    "name_ko": "병풀추출물",
+    "name_inci": "Centella Asiatica Extract",
+    "aliases": [
+      "병풀 추출물",
+      "Centella Asiatica Extract"
+    ],
+    "concern_ids": [
+      "soothing",
+      "trouble"
+    ],
+    "functional": null,
+    "evidence": {
+      "status": "reference",
+      "note": "메디힐 공식 마데카소사이드 패드의 전성분에서 병풀추출물을 확인했다. 시카 상표명 전체와 동일시하지 않는다.",
+      "source_url": "https://www.medihealshop.com/product/%EB%A7%88%EB%8D%B0%EC%B9%B4%EC%86%8C%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%9D%94%EC%A0%81-%ED%86%A0%EB%84%88%ED%8C%A8%EB%93%9C-100%EB%A7%A4/1710/category/1/display/3/?icid=MAIN.product_listmain_2"
+    }
+  },
+  {
+    "id": "madecassoside",
+    "name_ko": "마데카소사이드",
+    "name_inci": "Madecassoside",
+    "aliases": [
+      "Madecassoside"
+    ],
+    "concern_ids": [
+      "soothing"
+    ],
+    "functional": null,
+    "evidence": {
+      "status": "reference",
+      "note": "메디힐 공식 패드 상품정보에 마데카소사이드가 명시돼 있다. 특정 원료의 존재가 모든 제품의 기능성을 뜻하지 않는다.",
+      "source_url": "https://www.medihealshop.com/product/%EB%A7%88%EB%8D%B0%EC%B9%B4%EC%86%8C%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%9D%94%EC%A0%81-%ED%86%A0%EB%84%88%ED%8C%A8%EB%93%9C-100%EB%A7%A4/1710/category/1/display/3/?icid=MAIN.product_listmain_2"
+    }
+  },
+  {
+    "id": "allantoin",
+    "name_ko": "알란토인",
+    "name_inci": "Allantoin",
+    "aliases": [
+      "Allantoin"
+    ],
+    "concern_ids": [
+      "soothing"
+    ],
+    "functional": null,
+    "evidence": {
+      "status": "reference",
+      "note": "메디힐 공식 패드 및 에스트라 공식 크림의 전성분에서 확인했다. 민감 피부 적합 여부는 제품별로 확인해야 한다.",
+      "source_url": "https://www.medihealshop.com/product/%EB%A7%88%EB%8D%B0%EC%B9%B4%EC%86%8C%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%9D%94%EC%A0%81-%ED%86%A0%EB%84%88%ED%8C%A8%EB%93%9C-100%EB%A7%A4/1710/category/1/display/3/?icid=MAIN.product_listmain_2"
+    }
+  },
+  {
+    "id": "niacinamide",
+    "name_ko": "나이아신아마이드",
+    "name_inci": "Niacinamide",
+    "aliases": [
+      "니아신아마이드",
+      "Niacinamide"
+    ],
+    "concern_ids": [
+      "brightening",
+      "pore"
+    ],
+    "functional": {
+      "category": "whitening",
+      "notice_name": "나이아신아마이드",
+      "limit": null,
+      "source_url": "https://www.mfds.go.kr/brd/m_211/down.do?brd_id=data0005&seq=14959&data_tp=A&file_seq=2"
+    },
+    "evidence": {
+      "status": "official",
+      "note": "식약처 고시 제2025-89호 별표 2의 미백 원료로 수재. 원료 순도 기준을 완제품 배합 함량으로 옮기지 않았다.",
+      "source_url": "https://www.mfds.go.kr/brd/m_211/down.do?brd_id=data0005&seq=14959&data_tp=A&file_seq=2"
+    }
+  },
+  {
+    "id": "retinol",
+    "name_ko": "레티놀",
+    "name_inci": "Retinol",
+    "aliases": [
+      "Retinol"
+    ],
+    "concern_ids": [
+      "wrinkle"
+    ],
+    "functional": {
+      "category": "wrinkle",
+      "notice_name": "레티놀",
+      "limit": null,
+      "source_url": "https://www.mfds.go.kr/brd/m_211/down.do?brd_id=data0005&seq=14959&data_tp=A&file_seq=2"
+    },
+    "evidence": {
+      "status": "official",
+      "note": "식약처 고시 제2025-89호 별표 3의 주름개선 원료로 수재. 개별 제품의 배합 함량과 기능성 여부는 별도 확인한다.",
+      "source_url": "https://www.mfds.go.kr/brd/m_211/down.do?brd_id=data0005&seq=14959&data_tp=A&file_seq=2"
+    }
+  },
+  {
+    "id": "adenosine",
+    "name_ko": "아데노신",
+    "name_inci": "Adenosine",
+    "aliases": [
+      "Adenosine"
+    ],
+    "concern_ids": [
+      "wrinkle"
+    ],
+    "functional": {
+      "category": "wrinkle",
+      "notice_name": "아데노신",
+      "limit": null,
+      "source_url": "https://www.mfds.go.kr/brd/m_211/down.do?brd_id=data0005&seq=14959&data_tp=A&file_seq=2"
+    },
+    "evidence": {
+      "status": "official",
+      "note": "식약처 고시 제2025-89호 별표 3의 주름개선 원료로 수재. 이번 데이터에서는 완제품 적용 함량 기준을 확정하지 않았다.",
+      "source_url": "https://www.mfds.go.kr/brd/m_211/down.do?brd_id=data0005&seq=14959&data_tp=A&file_seq=2"
+    }
+  },
+  {
+    "id": "salicylic-acid",
+    "name_ko": "살리실릭애씨드",
+    "name_inci": "Salicylic Acid",
+    "aliases": [
+      "살리실산",
+      "살리실릭애시드",
+      "Salicylic Acid"
+    ],
+    "concern_ids": [
+      "trouble",
+      "pore"
+    ],
+    "functional": {
+      "category": "acne",
+      "notice_name": "살리실릭애씨드",
+      "limit": null,
+      "source_url": "https://www.mfds.go.kr/brd/m_211/down.do?brd_id=data0005&seq=14959&data_tp=A&file_seq=2"
+    },
+    "evidence": {
+      "status": "official",
+      "note": "식약처 고시 제2025-89호 별표 8의 여드름성 피부 완화 원료로 수재. 함유 사실만으로 해당 제품의 기능성을 판정하지 않는다.",
+      "source_url": "https://www.mfds.go.kr/brd/m_211/down.do?brd_id=data0005&seq=14959&data_tp=A&file_seq=2"
+    }
+  },
+  {
+    "id": "zinc-oxide",
+    "name_ko": "징크옥사이드",
+    "name_inci": "Zinc Oxide",
+    "aliases": [
+      "산화아연",
+      "Zinc Oxide"
+    ],
+    "concern_ids": [
+      "sun"
+    ],
+    "functional": {
+      "category": "uv",
+      "notice_name": "징크옥사이드",
+      "limit": null,
+      "source_url": "https://www.mfds.go.kr/brd/m_211/down.do?brd_id=data0005&seq=14959&data_tp=A&file_seq=2"
+    },
+    "evidence": {
+      "status": "official",
+      "note": "식약처 고시 제2025-89호 별표 4의 자외선 차단 원료로 수재. 원료 근거이며 개별 제품의 차단지수 근거는 아니다.",
+      "source_url": "https://www.mfds.go.kr/brd/m_211/down.do?brd_id=data0005&seq=14959&data_tp=A&file_seq=2"
+    }
+  },
+  {
+    "id": "titanium-dioxide",
+    "name_ko": "티타늄디옥사이드",
+    "name_inci": "Titanium Dioxide",
+    "aliases": [
+      "이산화티타늄",
+      "Titanium Dioxide"
+    ],
+    "concern_ids": [
+      "sun"
+    ],
+    "functional": {
+      "category": "uv",
+      "notice_name": "티타늄디옥사이드",
+      "limit": null,
+      "source_url": "https://www.mfds.go.kr/brd/m_211/down.do?brd_id=data0005&seq=14959&data_tp=A&file_seq=2"
+    },
+    "evidence": {
+      "status": "official",
+      "note": "식약처 고시 제2025-89호 별표 4의 자외선 차단 원료로 수재. 완제품 차단 성능과 배합 함량은 별도 정보다.",
+      "source_url": "https://www.mfds.go.kr/brd/m_211/down.do?brd_id=data0005&seq=14959&data_tp=A&file_seq=2"
+    }
+  }
+]

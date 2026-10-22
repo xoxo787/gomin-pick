@@ -1,0 +1,2077 @@
+[
+  {
+    "id": "daiso-sample-moisture-1",
+    "shop": "daiso",
+    "concern_id": "moisture",
+    "rank_in_group": 1,
+    "brand": "샘플 실험실",
+    "name": "샘플 베이직 크림 · 보습",
+    "price_krw": 3000,
+    "price_source": "shop_official",
+    "volume_value": 50,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 600,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "ceramide",
+      "panthenol"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": false,
+      "ethanol": false,
+      "source_url": "https://www.daisomall.co.kr/"
+    },
+    "skin_types": [
+      "dry",
+      "sensitive"
+    ],
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.daisomall.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EC%83%98%ED%94%8C%20%EB%B2%A0%EC%9D%B4%EC%A7%81%20%ED%81%AC%EB%A6%BC%20%C2%B7%20%EB%B3%B4%EC%8A%B5",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.daisomall.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "oliveyoung-sample-moisture-1",
+    "shop": "oliveyoung",
+    "concern_id": "moisture",
+    "rank_in_group": 1,
+    "brand": "샘플 실험실",
+    "name": "샘플 데일리 로션 · 보습",
+    "price_krw": 18000,
+    "price_source": "shop_official",
+    "volume_value": 100,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 1800,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "ceramide",
+      "panthenol"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": false,
+      "ethanol": false,
+      "source_url": "https://www.oliveyoung.co.kr/"
+    },
+    "skin_types": [
+      "dry",
+      "sensitive"
+    ],
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.oliveyoung.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EC%83%98%ED%94%8C%20%EB%8D%B0%EC%9D%BC%EB%A6%AC%20%EB%A1%9C%EC%85%98%20%C2%B7%20%EB%B3%B4%EC%8A%B5",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.oliveyoung.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "daiso-sample-moisture-2",
+    "shop": "daiso",
+    "concern_id": "moisture",
+    "rank_in_group": 2,
+    "brand": "샘플 실험실",
+    "name": "샘플 라벨 밤 · 보습",
+    "price_krw": 2000,
+    "price_source": "shop_official",
+    "volume_value": 40,
+    "volume_unit": "g",
+    "unit_price": {
+      "value": 500,
+      "basis": "10g"
+    },
+    "key_ingredient_ids": [
+      "ceramide",
+      "panthenol"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": false,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.daisomall.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EC%83%98%ED%94%8C%20%EB%9D%BC%EB%B2%A8%20%EB%B0%A4%20%C2%B7%20%EB%B3%B4%EC%8A%B5",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.daisomall.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "sensitive",
+      "skin_types",
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "oliveyoung-sample-moisture-2",
+    "shop": "oliveyoung",
+    "concern_id": "moisture",
+    "rank_in_group": 2,
+    "brand": "샘플 실험실",
+    "name": "샘플 미확인 에센스 · 보습",
+    "price_krw": null,
+    "price_source": null,
+    "volume_value": null,
+    "volume_unit": null,
+    "unit_price": null,
+    "key_ingredient_ids": [],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.oliveyoung.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EC%83%98%ED%94%8C%20%EB%AF%B8%ED%99%95%EC%9D%B8%20%EC%97%90%EC%84%BC%EC%8A%A4%20%C2%B7%20%EB%B3%B4%EC%8A%B5",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.oliveyoung.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "price_krw",
+      "volume_value",
+      "volume_unit",
+      "key_ingredient_ids",
+      "sensitive",
+      "skin_types",
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "daiso-sample-moisture-3",
+    "shop": "daiso",
+    "concern_id": "moisture",
+    "rank_in_group": 3,
+    "brand": "샘플 실험실",
+    "name": "샘플 시트 팩 · 보습",
+    "price_krw": 1000,
+    "price_source": "shop_official",
+    "volume_value": 5,
+    "volume_unit": "ea",
+    "unit_price": {
+      "value": 200,
+      "basis": "1ea"
+    },
+    "key_ingredient_ids": [
+      "ceramide",
+      "panthenol"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": false,
+      "ethanol": false,
+      "source_url": "https://www.daisomall.co.kr/"
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.daisomall.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EC%83%98%ED%94%8C%20%EC%8B%9C%ED%8A%B8%20%ED%8C%A9%20%C2%B7%20%EB%B3%B4%EC%8A%B5",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.daisomall.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "skin_types",
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "oliveyoung-sample-moisture-3",
+    "shop": "oliveyoung",
+    "concern_id": "moisture",
+    "rank_in_group": 3,
+    "brand": "샘플 실험실",
+    "name": "샘플 퍼퓸 에센스 · 보습",
+    "price_krw": 12000,
+    "price_source": "shop_official",
+    "volume_value": 80,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 1500,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "ceramide",
+      "panthenol"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": true,
+      "ethanol": false,
+      "source_url": "https://www.oliveyoung.co.kr/"
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.oliveyoung.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EC%83%98%ED%94%8C%20%ED%8D%BC%ED%93%B8%20%EC%97%90%EC%84%BC%EC%8A%A4%20%C2%B7%20%EB%B3%B4%EC%8A%B5",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.oliveyoung.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "skin_types",
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "daiso-sample-soothing-1",
+    "shop": "daiso",
+    "concern_id": "soothing",
+    "rank_in_group": 1,
+    "brand": "샘플 실험실",
+    "name": "샘플 베이직 크림 · 진정·민감",
+    "price_krw": 3000,
+    "price_source": "shop_official",
+    "volume_value": 50,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 600,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "panthenol",
+      "centella-asiatica"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": false,
+      "ethanol": false,
+      "source_url": "https://www.daisomall.co.kr/"
+    },
+    "skin_types": [
+      "dry",
+      "sensitive"
+    ],
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.daisomall.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EC%83%98%ED%94%8C%20%EB%B2%A0%EC%9D%B4%EC%A7%81%20%ED%81%AC%EB%A6%BC%20%C2%B7%20%EC%A7%84%EC%A0%95%C2%B7%EB%AF%BC%EA%B0%90",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.daisomall.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "oliveyoung-sample-soothing-1",
+    "shop": "oliveyoung",
+    "concern_id": "soothing",
+    "rank_in_group": 1,
+    "brand": "샘플 실험실",
+    "name": "샘플 데일리 로션 · 진정·민감",
+    "price_krw": 18000,
+    "price_source": "shop_official",
+    "volume_value": 100,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 1800,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "panthenol",
+      "centella-asiatica"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": false,
+      "ethanol": false,
+      "source_url": "https://www.oliveyoung.co.kr/"
+    },
+    "skin_types": [
+      "dry",
+      "sensitive"
+    ],
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.oliveyoung.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EC%83%98%ED%94%8C%20%EB%8D%B0%EC%9D%BC%EB%A6%AC%20%EB%A1%9C%EC%85%98%20%C2%B7%20%EC%A7%84%EC%A0%95%C2%B7%EB%AF%BC%EA%B0%90",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.oliveyoung.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "daiso-sample-soothing-2",
+    "shop": "daiso",
+    "concern_id": "soothing",
+    "rank_in_group": 2,
+    "brand": "샘플 실험실",
+    "name": "샘플 라벨 밤 · 진정·민감",
+    "price_krw": 2000,
+    "price_source": "shop_official",
+    "volume_value": 40,
+    "volume_unit": "g",
+    "unit_price": {
+      "value": 500,
+      "basis": "10g"
+    },
+    "key_ingredient_ids": [
+      "panthenol",
+      "centella-asiatica"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": false,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.daisomall.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EC%83%98%ED%94%8C%20%EB%9D%BC%EB%B2%A8%20%EB%B0%A4%20%C2%B7%20%EC%A7%84%EC%A0%95%C2%B7%EB%AF%BC%EA%B0%90",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.daisomall.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "sensitive",
+      "skin_types",
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "oliveyoung-sample-soothing-2",
+    "shop": "oliveyoung",
+    "concern_id": "soothing",
+    "rank_in_group": 2,
+    "brand": "샘플 실험실",
+    "name": "샘플 미확인 에센스 · 진정·민감",
+    "price_krw": null,
+    "price_source": null,
+    "volume_value": null,
+    "volume_unit": null,
+    "unit_price": null,
+    "key_ingredient_ids": [],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.oliveyoung.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EC%83%98%ED%94%8C%20%EB%AF%B8%ED%99%95%EC%9D%B8%20%EC%97%90%EC%84%BC%EC%8A%A4%20%C2%B7%20%EC%A7%84%EC%A0%95%C2%B7%EB%AF%BC%EA%B0%90",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.oliveyoung.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "price_krw",
+      "volume_value",
+      "volume_unit",
+      "key_ingredient_ids",
+      "sensitive",
+      "skin_types",
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "daiso-sample-soothing-3",
+    "shop": "daiso",
+    "concern_id": "soothing",
+    "rank_in_group": 3,
+    "brand": "샘플 실험실",
+    "name": "샘플 시트 팩 · 진정·민감",
+    "price_krw": 1000,
+    "price_source": "shop_official",
+    "volume_value": 5,
+    "volume_unit": "ea",
+    "unit_price": {
+      "value": 200,
+      "basis": "1ea"
+    },
+    "key_ingredient_ids": [
+      "panthenol",
+      "centella-asiatica"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": false,
+      "ethanol": false,
+      "source_url": "https://www.daisomall.co.kr/"
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.daisomall.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EC%83%98%ED%94%8C%20%EC%8B%9C%ED%8A%B8%20%ED%8C%A9%20%C2%B7%20%EC%A7%84%EC%A0%95%C2%B7%EB%AF%BC%EA%B0%90",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.daisomall.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "skin_types",
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "oliveyoung-sample-soothing-3",
+    "shop": "oliveyoung",
+    "concern_id": "soothing",
+    "rank_in_group": 3,
+    "brand": "샘플 실험실",
+    "name": "샘플 퍼퓸 에센스 · 진정·민감",
+    "price_krw": 12000,
+    "price_source": "shop_official",
+    "volume_value": 80,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 1500,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "panthenol",
+      "centella-asiatica"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": true,
+      "ethanol": false,
+      "source_url": "https://www.oliveyoung.co.kr/"
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.oliveyoung.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EC%83%98%ED%94%8C%20%ED%8D%BC%ED%93%B8%20%EC%97%90%EC%84%BC%EC%8A%A4%20%C2%B7%20%EC%A7%84%EC%A0%95%C2%B7%EB%AF%BC%EA%B0%90",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.oliveyoung.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "skin_types",
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "daiso-sample-trouble-1",
+    "shop": "daiso",
+    "concern_id": "trouble",
+    "rank_in_group": 1,
+    "brand": "샘플 실험실",
+    "name": "샘플 베이직 크림 · 트러블",
+    "price_krw": 3000,
+    "price_source": "shop_official",
+    "volume_value": 50,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 600,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "salicylic-acid",
+      "panthenol"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": false,
+      "ethanol": false,
+      "source_url": "https://www.daisomall.co.kr/"
+    },
+    "skin_types": [
+      "dry",
+      "sensitive"
+    ],
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.daisomall.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EC%83%98%ED%94%8C%20%EB%B2%A0%EC%9D%B4%EC%A7%81%20%ED%81%AC%EB%A6%BC%20%C2%B7%20%ED%8A%B8%EB%9F%AC%EB%B8%94",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.daisomall.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "oliveyoung-sample-trouble-1",
+    "shop": "oliveyoung",
+    "concern_id": "trouble",
+    "rank_in_group": 1,
+    "brand": "샘플 실험실",
+    "name": "샘플 데일리 로션 · 트러블",
+    "price_krw": 18000,
+    "price_source": "shop_official",
+    "volume_value": 100,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 1800,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "salicylic-acid",
+      "panthenol"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": false,
+      "ethanol": false,
+      "source_url": "https://www.oliveyoung.co.kr/"
+    },
+    "skin_types": [
+      "dry",
+      "sensitive"
+    ],
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.oliveyoung.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EC%83%98%ED%94%8C%20%EB%8D%B0%EC%9D%BC%EB%A6%AC%20%EB%A1%9C%EC%85%98%20%C2%B7%20%ED%8A%B8%EB%9F%AC%EB%B8%94",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.oliveyoung.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "daiso-sample-trouble-2",
+    "shop": "daiso",
+    "concern_id": "trouble",
+    "rank_in_group": 2,
+    "brand": "샘플 실험실",
+    "name": "샘플 라벨 밤 · 트러블",
+    "price_krw": 2000,
+    "price_source": "shop_official",
+    "volume_value": 40,
+    "volume_unit": "g",
+    "unit_price": {
+      "value": 500,
+      "basis": "10g"
+    },
+    "key_ingredient_ids": [
+      "salicylic-acid",
+      "panthenol"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": false,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.daisomall.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EC%83%98%ED%94%8C%20%EB%9D%BC%EB%B2%A8%20%EB%B0%A4%20%C2%B7%20%ED%8A%B8%EB%9F%AC%EB%B8%94",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.daisomall.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "sensitive",
+      "skin_types",
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "oliveyoung-sample-trouble-2",
+    "shop": "oliveyoung",
+    "concern_id": "trouble",
+    "rank_in_group": 2,
+    "brand": "샘플 실험실",
+    "name": "샘플 미확인 에센스 · 트러블",
+    "price_krw": null,
+    "price_source": null,
+    "volume_value": null,
+    "volume_unit": null,
+    "unit_price": null,
+    "key_ingredient_ids": [],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.oliveyoung.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EC%83%98%ED%94%8C%20%EB%AF%B8%ED%99%95%EC%9D%B8%20%EC%97%90%EC%84%BC%EC%8A%A4%20%C2%B7%20%ED%8A%B8%EB%9F%AC%EB%B8%94",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.oliveyoung.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "price_krw",
+      "volume_value",
+      "volume_unit",
+      "key_ingredient_ids",
+      "sensitive",
+      "skin_types",
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "daiso-sample-trouble-3",
+    "shop": "daiso",
+    "concern_id": "trouble",
+    "rank_in_group": 3,
+    "brand": "샘플 실험실",
+    "name": "샘플 시트 팩 · 트러블",
+    "price_krw": 1000,
+    "price_source": "shop_official",
+    "volume_value": 5,
+    "volume_unit": "ea",
+    "unit_price": {
+      "value": 200,
+      "basis": "1ea"
+    },
+    "key_ingredient_ids": [
+      "salicylic-acid",
+      "panthenol"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": false,
+      "ethanol": false,
+      "source_url": "https://www.daisomall.co.kr/"
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.daisomall.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EC%83%98%ED%94%8C%20%EC%8B%9C%ED%8A%B8%20%ED%8C%A9%20%C2%B7%20%ED%8A%B8%EB%9F%AC%EB%B8%94",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.daisomall.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "skin_types",
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "oliveyoung-sample-trouble-3",
+    "shop": "oliveyoung",
+    "concern_id": "trouble",
+    "rank_in_group": 3,
+    "brand": "샘플 실험실",
+    "name": "샘플 퍼퓸 에센스 · 트러블",
+    "price_krw": 12000,
+    "price_source": "shop_official",
+    "volume_value": 80,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 1500,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "salicylic-acid",
+      "panthenol"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": true,
+      "ethanol": false,
+      "source_url": "https://www.oliveyoung.co.kr/"
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.oliveyoung.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EC%83%98%ED%94%8C%20%ED%8D%BC%ED%93%B8%20%EC%97%90%EC%84%BC%EC%8A%A4%20%C2%B7%20%ED%8A%B8%EB%9F%AC%EB%B8%94",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.oliveyoung.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "skin_types",
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "daiso-sample-brightening-1",
+    "shop": "daiso",
+    "concern_id": "brightening",
+    "rank_in_group": 1,
+    "brand": "샘플 실험실",
+    "name": "샘플 베이직 크림 · 미백·잡티",
+    "price_krw": 3000,
+    "price_source": "shop_official",
+    "volume_value": 50,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 600,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "niacinamide"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": false,
+      "ethanol": false,
+      "source_url": "https://www.daisomall.co.kr/"
+    },
+    "skin_types": [
+      "dry",
+      "sensitive"
+    ],
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.daisomall.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EC%83%98%ED%94%8C%20%EB%B2%A0%EC%9D%B4%EC%A7%81%20%ED%81%AC%EB%A6%BC%20%C2%B7%20%EB%AF%B8%EB%B0%B1%C2%B7%EC%9E%A1%ED%8B%B0",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.daisomall.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "oliveyoung-sample-brightening-1",
+    "shop": "oliveyoung",
+    "concern_id": "brightening",
+    "rank_in_group": 1,
+    "brand": "샘플 실험실",
+    "name": "샘플 데일리 로션 · 미백·잡티",
+    "price_krw": 18000,
+    "price_source": "shop_official",
+    "volume_value": 100,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 1800,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "niacinamide"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": false,
+      "ethanol": false,
+      "source_url": "https://www.oliveyoung.co.kr/"
+    },
+    "skin_types": [
+      "dry",
+      "sensitive"
+    ],
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.oliveyoung.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EC%83%98%ED%94%8C%20%EB%8D%B0%EC%9D%BC%EB%A6%AC%20%EB%A1%9C%EC%85%98%20%C2%B7%20%EB%AF%B8%EB%B0%B1%C2%B7%EC%9E%A1%ED%8B%B0",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.oliveyoung.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "daiso-sample-brightening-2",
+    "shop": "daiso",
+    "concern_id": "brightening",
+    "rank_in_group": 2,
+    "brand": "샘플 실험실",
+    "name": "샘플 라벨 밤 · 미백·잡티",
+    "price_krw": 2000,
+    "price_source": "shop_official",
+    "volume_value": 40,
+    "volume_unit": "g",
+    "unit_price": {
+      "value": 500,
+      "basis": "10g"
+    },
+    "key_ingredient_ids": [
+      "niacinamide"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": false,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.daisomall.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EC%83%98%ED%94%8C%20%EB%9D%BC%EB%B2%A8%20%EB%B0%A4%20%C2%B7%20%EB%AF%B8%EB%B0%B1%C2%B7%EC%9E%A1%ED%8B%B0",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.daisomall.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "sensitive",
+      "skin_types",
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "oliveyoung-sample-brightening-2",
+    "shop": "oliveyoung",
+    "concern_id": "brightening",
+    "rank_in_group": 2,
+    "brand": "샘플 실험실",
+    "name": "샘플 미확인 에센스 · 미백·잡티",
+    "price_krw": null,
+    "price_source": null,
+    "volume_value": null,
+    "volume_unit": null,
+    "unit_price": null,
+    "key_ingredient_ids": [],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.oliveyoung.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EC%83%98%ED%94%8C%20%EB%AF%B8%ED%99%95%EC%9D%B8%20%EC%97%90%EC%84%BC%EC%8A%A4%20%C2%B7%20%EB%AF%B8%EB%B0%B1%C2%B7%EC%9E%A1%ED%8B%B0",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.oliveyoung.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "price_krw",
+      "volume_value",
+      "volume_unit",
+      "key_ingredient_ids",
+      "sensitive",
+      "skin_types",
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "daiso-sample-brightening-3",
+    "shop": "daiso",
+    "concern_id": "brightening",
+    "rank_in_group": 3,
+    "brand": "샘플 실험실",
+    "name": "샘플 시트 팩 · 미백·잡티",
+    "price_krw": 1000,
+    "price_source": "shop_official",
+    "volume_value": 5,
+    "volume_unit": "ea",
+    "unit_price": {
+      "value": 200,
+      "basis": "1ea"
+    },
+    "key_ingredient_ids": [
+      "niacinamide"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": false,
+      "ethanol": false,
+      "source_url": "https://www.daisomall.co.kr/"
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.daisomall.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EC%83%98%ED%94%8C%20%EC%8B%9C%ED%8A%B8%20%ED%8C%A9%20%C2%B7%20%EB%AF%B8%EB%B0%B1%C2%B7%EC%9E%A1%ED%8B%B0",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.daisomall.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "skin_types",
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "oliveyoung-sample-brightening-3",
+    "shop": "oliveyoung",
+    "concern_id": "brightening",
+    "rank_in_group": 3,
+    "brand": "샘플 실험실",
+    "name": "샘플 퍼퓸 에센스 · 미백·잡티",
+    "price_krw": 12000,
+    "price_source": "shop_official",
+    "volume_value": 80,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 1500,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "niacinamide"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": true,
+      "ethanol": false,
+      "source_url": "https://www.oliveyoung.co.kr/"
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.oliveyoung.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EC%83%98%ED%94%8C%20%ED%8D%BC%ED%93%B8%20%EC%97%90%EC%84%BC%EC%8A%A4%20%C2%B7%20%EB%AF%B8%EB%B0%B1%C2%B7%EC%9E%A1%ED%8B%B0",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.oliveyoung.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "skin_types",
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "daiso-sample-wrinkle-1",
+    "shop": "daiso",
+    "concern_id": "wrinkle",
+    "rank_in_group": 1,
+    "brand": "샘플 실험실",
+    "name": "샘플 베이직 크림 · 주름·탄력",
+    "price_krw": 3000,
+    "price_source": "shop_official",
+    "volume_value": 50,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 600,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "adenosine",
+      "retinol"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": false,
+      "ethanol": false,
+      "source_url": "https://www.daisomall.co.kr/"
+    },
+    "skin_types": [
+      "dry",
+      "sensitive"
+    ],
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.daisomall.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EC%83%98%ED%94%8C%20%EB%B2%A0%EC%9D%B4%EC%A7%81%20%ED%81%AC%EB%A6%BC%20%C2%B7%20%EC%A3%BC%EB%A6%84%C2%B7%ED%83%84%EB%A0%A5",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.daisomall.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "oliveyoung-sample-wrinkle-1",
+    "shop": "oliveyoung",
+    "concern_id": "wrinkle",
+    "rank_in_group": 1,
+    "brand": "샘플 실험실",
+    "name": "샘플 데일리 로션 · 주름·탄력",
+    "price_krw": 18000,
+    "price_source": "shop_official",
+    "volume_value": 100,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 1800,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "adenosine",
+      "retinol"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": false,
+      "ethanol": false,
+      "source_url": "https://www.oliveyoung.co.kr/"
+    },
+    "skin_types": [
+      "dry",
+      "sensitive"
+    ],
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.oliveyoung.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EC%83%98%ED%94%8C%20%EB%8D%B0%EC%9D%BC%EB%A6%AC%20%EB%A1%9C%EC%85%98%20%C2%B7%20%EC%A3%BC%EB%A6%84%C2%B7%ED%83%84%EB%A0%A5",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.oliveyoung.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "daiso-sample-wrinkle-2",
+    "shop": "daiso",
+    "concern_id": "wrinkle",
+    "rank_in_group": 2,
+    "brand": "샘플 실험실",
+    "name": "샘플 라벨 밤 · 주름·탄력",
+    "price_krw": 2000,
+    "price_source": "shop_official",
+    "volume_value": 40,
+    "volume_unit": "g",
+    "unit_price": {
+      "value": 500,
+      "basis": "10g"
+    },
+    "key_ingredient_ids": [
+      "adenosine",
+      "retinol"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": false,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.daisomall.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EC%83%98%ED%94%8C%20%EB%9D%BC%EB%B2%A8%20%EB%B0%A4%20%C2%B7%20%EC%A3%BC%EB%A6%84%C2%B7%ED%83%84%EB%A0%A5",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.daisomall.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "sensitive",
+      "skin_types",
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "oliveyoung-sample-wrinkle-2",
+    "shop": "oliveyoung",
+    "concern_id": "wrinkle",
+    "rank_in_group": 2,
+    "brand": "샘플 실험실",
+    "name": "샘플 미확인 에센스 · 주름·탄력",
+    "price_krw": null,
+    "price_source": null,
+    "volume_value": null,
+    "volume_unit": null,
+    "unit_price": null,
+    "key_ingredient_ids": [],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.oliveyoung.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EC%83%98%ED%94%8C%20%EB%AF%B8%ED%99%95%EC%9D%B8%20%EC%97%90%EC%84%BC%EC%8A%A4%20%C2%B7%20%EC%A3%BC%EB%A6%84%C2%B7%ED%83%84%EB%A0%A5",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.oliveyoung.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "price_krw",
+      "volume_value",
+      "volume_unit",
+      "key_ingredient_ids",
+      "sensitive",
+      "skin_types",
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "daiso-sample-wrinkle-3",
+    "shop": "daiso",
+    "concern_id": "wrinkle",
+    "rank_in_group": 3,
+    "brand": "샘플 실험실",
+    "name": "샘플 시트 팩 · 주름·탄력",
+    "price_krw": 1000,
+    "price_source": "shop_official",
+    "volume_value": 5,
+    "volume_unit": "ea",
+    "unit_price": {
+      "value": 200,
+      "basis": "1ea"
+    },
+    "key_ingredient_ids": [
+      "adenosine",
+      "retinol"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": false,
+      "ethanol": false,
+      "source_url": "https://www.daisomall.co.kr/"
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.daisomall.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EC%83%98%ED%94%8C%20%EC%8B%9C%ED%8A%B8%20%ED%8C%A9%20%C2%B7%20%EC%A3%BC%EB%A6%84%C2%B7%ED%83%84%EB%A0%A5",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.daisomall.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "skin_types",
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "oliveyoung-sample-wrinkle-3",
+    "shop": "oliveyoung",
+    "concern_id": "wrinkle",
+    "rank_in_group": 3,
+    "brand": "샘플 실험실",
+    "name": "샘플 퍼퓸 에센스 · 주름·탄력",
+    "price_krw": 12000,
+    "price_source": "shop_official",
+    "volume_value": 80,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 1500,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "adenosine",
+      "retinol"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": true,
+      "ethanol": false,
+      "source_url": "https://www.oliveyoung.co.kr/"
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.oliveyoung.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EC%83%98%ED%94%8C%20%ED%8D%BC%ED%93%B8%20%EC%97%90%EC%84%BC%EC%8A%A4%20%C2%B7%20%EC%A3%BC%EB%A6%84%C2%B7%ED%83%84%EB%A0%A5",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.oliveyoung.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "skin_types",
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "daiso-sample-pore-1",
+    "shop": "daiso",
+    "concern_id": "pore",
+    "rank_in_group": 1,
+    "brand": "샘플 실험실",
+    "name": "샘플 베이직 크림 · 모공·피지",
+    "price_krw": 3000,
+    "price_source": "shop_official",
+    "volume_value": 50,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 600,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "salicylic-acid",
+      "niacinamide"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": true,
+      "ethanol": false,
+      "source_url": "https://www.daisomall.co.kr/"
+    },
+    "skin_types": [
+      "dry",
+      "sensitive"
+    ],
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.daisomall.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EC%83%98%ED%94%8C%20%EB%B2%A0%EC%9D%B4%EC%A7%81%20%ED%81%AC%EB%A6%BC%20%C2%B7%20%EB%AA%A8%EA%B3%B5%C2%B7%ED%94%BC%EC%A7%80",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.daisomall.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "oliveyoung-sample-pore-1",
+    "shop": "oliveyoung",
+    "concern_id": "pore",
+    "rank_in_group": 1,
+    "brand": "샘플 실험실",
+    "name": "샘플 데일리 로션 · 모공·피지",
+    "price_krw": 18000,
+    "price_source": "shop_official",
+    "volume_value": 100,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 1800,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "salicylic-acid",
+      "niacinamide"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": false,
+      "ethanol": false,
+      "source_url": "https://www.oliveyoung.co.kr/"
+    },
+    "skin_types": [
+      "dry",
+      "sensitive"
+    ],
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.oliveyoung.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EC%83%98%ED%94%8C%20%EB%8D%B0%EC%9D%BC%EB%A6%AC%20%EB%A1%9C%EC%85%98%20%C2%B7%20%EB%AA%A8%EA%B3%B5%C2%B7%ED%94%BC%EC%A7%80",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.oliveyoung.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "daiso-sample-pore-2",
+    "shop": "daiso",
+    "concern_id": "pore",
+    "rank_in_group": 2,
+    "brand": "샘플 실험실",
+    "name": "샘플 라벨 밤 · 모공·피지",
+    "price_krw": 2000,
+    "price_source": "shop_official",
+    "volume_value": 40,
+    "volume_unit": "g",
+    "unit_price": {
+      "value": 500,
+      "basis": "10g"
+    },
+    "key_ingredient_ids": [
+      "salicylic-acid",
+      "niacinamide"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": true,
+      "ethanol": false,
+      "source_url": "https://www.daisomall.co.kr/"
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.daisomall.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EC%83%98%ED%94%8C%20%EB%9D%BC%EB%B2%A8%20%EB%B0%A4%20%C2%B7%20%EB%AA%A8%EA%B3%B5%C2%B7%ED%94%BC%EC%A7%80",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.daisomall.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "skin_types",
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "oliveyoung-sample-pore-2",
+    "shop": "oliveyoung",
+    "concern_id": "pore",
+    "rank_in_group": 2,
+    "brand": "샘플 실험실",
+    "name": "샘플 미확인 에센스 · 모공·피지",
+    "price_krw": null,
+    "price_source": null,
+    "volume_value": null,
+    "volume_unit": null,
+    "unit_price": null,
+    "key_ingredient_ids": [],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.oliveyoung.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EC%83%98%ED%94%8C%20%EB%AF%B8%ED%99%95%EC%9D%B8%20%EC%97%90%EC%84%BC%EC%8A%A4%20%C2%B7%20%EB%AA%A8%EA%B3%B5%C2%B7%ED%94%BC%EC%A7%80",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.oliveyoung.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "price_krw",
+      "volume_value",
+      "volume_unit",
+      "key_ingredient_ids",
+      "sensitive",
+      "skin_types",
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "daiso-sample-pore-3",
+    "shop": "daiso",
+    "concern_id": "pore",
+    "rank_in_group": 3,
+    "brand": "샘플 실험실",
+    "name": "샘플 시트 팩 · 모공·피지",
+    "price_krw": 1000,
+    "price_source": "shop_official",
+    "volume_value": 5,
+    "volume_unit": "ea",
+    "unit_price": {
+      "value": 200,
+      "basis": "1ea"
+    },
+    "key_ingredient_ids": [
+      "salicylic-acid",
+      "niacinamide"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": true,
+      "ethanol": false,
+      "source_url": "https://www.daisomall.co.kr/"
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.daisomall.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EC%83%98%ED%94%8C%20%EC%8B%9C%ED%8A%B8%20%ED%8C%A9%20%C2%B7%20%EB%AA%A8%EA%B3%B5%C2%B7%ED%94%BC%EC%A7%80",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.daisomall.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "skin_types",
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "oliveyoung-sample-pore-3",
+    "shop": "oliveyoung",
+    "concern_id": "pore",
+    "rank_in_group": 3,
+    "brand": "샘플 실험실",
+    "name": "샘플 퍼퓸 에센스 · 모공·피지",
+    "price_krw": 12000,
+    "price_source": "shop_official",
+    "volume_value": 80,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 1500,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "salicylic-acid",
+      "niacinamide"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": true,
+      "ethanol": false,
+      "source_url": "https://www.oliveyoung.co.kr/"
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.oliveyoung.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EC%83%98%ED%94%8C%20%ED%8D%BC%ED%93%B8%20%EC%97%90%EC%84%BC%EC%8A%A4%20%C2%B7%20%EB%AA%A8%EA%B3%B5%C2%B7%ED%94%BC%EC%A7%80",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.oliveyoung.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "skin_types",
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "daiso-sample-sun-1",
+    "shop": "daiso",
+    "concern_id": "sun",
+    "rank_in_group": 1,
+    "brand": "샘플 실험실",
+    "name": "샘플 베이직 크림 · 자외선 차단",
+    "price_krw": 3000,
+    "price_source": "shop_official",
+    "volume_value": 50,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 600,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "zinc-oxide"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": false,
+      "ethanol": false,
+      "source_url": "https://www.daisomall.co.kr/"
+    },
+    "skin_types": [
+      "dry",
+      "sensitive"
+    ],
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.daisomall.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EC%83%98%ED%94%8C%20%EB%B2%A0%EC%9D%B4%EC%A7%81%20%ED%81%AC%EB%A6%BC%20%C2%B7%20%EC%9E%90%EC%99%B8%EC%84%A0%20%EC%B0%A8%EB%8B%A8",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.daisomall.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "oliveyoung-sample-sun-1",
+    "shop": "oliveyoung",
+    "concern_id": "sun",
+    "rank_in_group": 1,
+    "brand": "샘플 실험실",
+    "name": "샘플 데일리 로션 · 자외선 차단",
+    "price_krw": 18000,
+    "price_source": "shop_official",
+    "volume_value": 100,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 1800,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "zinc-oxide"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": false,
+      "ethanol": false,
+      "source_url": "https://www.oliveyoung.co.kr/"
+    },
+    "skin_types": [
+      "dry",
+      "sensitive"
+    ],
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.oliveyoung.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EC%83%98%ED%94%8C%20%EB%8D%B0%EC%9D%BC%EB%A6%AC%20%EB%A1%9C%EC%85%98%20%C2%B7%20%EC%9E%90%EC%99%B8%EC%84%A0%20%EC%B0%A8%EB%8B%A8",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.oliveyoung.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "daiso-sample-sun-2",
+    "shop": "daiso",
+    "concern_id": "sun",
+    "rank_in_group": 2,
+    "brand": "샘플 실험실",
+    "name": "샘플 라벨 밤 · 자외선 차단",
+    "price_krw": 2000,
+    "price_source": "shop_official",
+    "volume_value": 40,
+    "volume_unit": "g",
+    "unit_price": {
+      "value": 500,
+      "basis": "10g"
+    },
+    "key_ingredient_ids": [
+      "zinc-oxide"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": false,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.daisomall.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EC%83%98%ED%94%8C%20%EB%9D%BC%EB%B2%A8%20%EB%B0%A4%20%C2%B7%20%EC%9E%90%EC%99%B8%EC%84%A0%20%EC%B0%A8%EB%8B%A8",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.daisomall.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "sensitive",
+      "skin_types",
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "oliveyoung-sample-sun-2",
+    "shop": "oliveyoung",
+    "concern_id": "sun",
+    "rank_in_group": 2,
+    "brand": "샘플 실험실",
+    "name": "샘플 미확인 에센스 · 자외선 차단",
+    "price_krw": null,
+    "price_source": null,
+    "volume_value": null,
+    "volume_unit": null,
+    "unit_price": null,
+    "key_ingredient_ids": [],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.oliveyoung.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EC%83%98%ED%94%8C%20%EB%AF%B8%ED%99%95%EC%9D%B8%20%EC%97%90%EC%84%BC%EC%8A%A4%20%C2%B7%20%EC%9E%90%EC%99%B8%EC%84%A0%20%EC%B0%A8%EB%8B%A8",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.oliveyoung.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "price_krw",
+      "volume_value",
+      "volume_unit",
+      "key_ingredient_ids",
+      "sensitive",
+      "skin_types",
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "daiso-sample-sun-3",
+    "shop": "daiso",
+    "concern_id": "sun",
+    "rank_in_group": 3,
+    "brand": "샘플 실험실",
+    "name": "샘플 시트 팩 · 자외선 차단",
+    "price_krw": 1000,
+    "price_source": "shop_official",
+    "volume_value": 5,
+    "volume_unit": "ea",
+    "unit_price": {
+      "value": 200,
+      "basis": "1ea"
+    },
+    "key_ingredient_ids": [
+      "zinc-oxide"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": false,
+      "ethanol": false,
+      "source_url": "https://www.daisomall.co.kr/"
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.daisomall.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EC%83%98%ED%94%8C%20%EC%8B%9C%ED%8A%B8%20%ED%8C%A9%20%C2%B7%20%EC%9E%90%EC%99%B8%EC%84%A0%20%EC%B0%A8%EB%8B%A8",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.daisomall.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "skin_types",
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "oliveyoung-sample-sun-3",
+    "shop": "oliveyoung",
+    "concern_id": "sun",
+    "rank_in_group": 3,
+    "brand": "샘플 실험실",
+    "name": "샘플 퍼퓸 에센스 · 자외선 차단",
+    "price_krw": 12000,
+    "price_source": "shop_official",
+    "volume_value": 80,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 1500,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "zinc-oxide"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": true,
+      "ethanol": false,
+      "source_url": "https://www.oliveyoung.co.kr/"
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "샘플 데이터의 비교용 순서",
+        "award_category": "샘플 분류",
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.oliveyoung.co.kr/"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EC%83%98%ED%94%8C%20%ED%8D%BC%ED%93%B8%20%EC%97%90%EC%84%BC%EC%8A%A4%20%C2%B7%20%EC%9E%90%EC%99%B8%EC%84%A0%20%EC%B0%A8%EB%8B%A8",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.oliveyoung.co.kr/"
+    ],
+    "evidence": "화면과 로직 검사를 위한 가상 제품입니다. 실제 제품의 가격·성분·순위를 나타내지 않습니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "샘플 가상 가격 · 변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "skin_types",
+      "functional_cosmetic"
+    ]
+  }
+]

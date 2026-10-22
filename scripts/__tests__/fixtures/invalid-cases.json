@@ -1,0 +1,886 @@
+[
+  {
+    "name": "missing-field",
+    "code": "SCHEMA_REQUIRED",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "name"
+        ],
+        "remove": true
+      }
+    ]
+  },
+  {
+    "name": "unknown-field",
+    "code": "SCHEMA_UNKNOWN_FIELD",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "extra"
+        ],
+        "value": true
+      }
+    ]
+  },
+  {
+    "name": "wrong-type",
+    "code": "SCHEMA_TYPE",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "price_krw"
+        ],
+        "value": "1000"
+      }
+    ]
+  },
+  {
+    "name": "nested-type",
+    "code": "SCHEMA_TYPE",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "sensitive",
+          "fragrance"
+        ],
+        "value": "false"
+      }
+    ]
+  },
+  {
+    "name": "wrong-enum",
+    "code": "SCHEMA_ENUM",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "shop"
+        ],
+        "value": "other"
+      }
+    ]
+  },
+  {
+    "name": "empty-required",
+    "code": "EMPTY_STRING",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "name"
+        ],
+        "value": "  "
+      }
+    ]
+  },
+  {
+    "name": "empty-optional-string",
+    "code": "EMPTY_STRING",
+    "edits": [
+      {
+        "path": [
+          "ingredients",
+          0,
+          "name_inci"
+        ],
+        "value": ""
+      }
+    ]
+  },
+  {
+    "name": "top-level-object",
+    "code": "SCHEMA_TYPE",
+    "edits": [
+      {
+        "path": [
+          "products"
+        ],
+        "value": {}
+      }
+    ]
+  },
+  {
+    "name": "negative-price",
+    "code": "SCHEMA_RANGE",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "price_krw"
+        ],
+        "value": -1
+      }
+    ]
+  },
+  {
+    "name": "zero-volume",
+    "code": "SCHEMA_RANGE",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "volume_value"
+        ],
+        "value": 0
+      }
+    ]
+  },
+  {
+    "name": "ingredient-id-format",
+    "code": "ID_FORMAT",
+    "edits": [
+      {
+        "path": [
+          "ingredients",
+          0,
+          "id"
+        ],
+        "value": "Wrong_ID"
+      }
+    ]
+  },
+  {
+    "name": "product-id-format",
+    "code": "ID_FORMAT",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "id"
+        ],
+        "value": "oliveyoung-wrong-shop"
+      }
+    ]
+  },
+  {
+    "name": "duplicate-product-id",
+    "code": "DUPLICATE_ID",
+    "edits": [
+      {
+        "path": [
+          "products",
+          1,
+          "id"
+        ],
+        "value": "daiso-fixture-1"
+      }
+    ]
+  },
+  {
+    "name": "duplicate-concern-id",
+    "code": "DUPLICATE_ID",
+    "edits": [
+      {
+        "path": [
+          "concerns",
+          1,
+          "id"
+        ],
+        "value": "moisture"
+      }
+    ]
+  },
+  {
+    "name": "duplicate-ingredient-id",
+    "code": "DUPLICATE_ID",
+    "edits": [
+      {
+        "path": [
+          "ingredients",
+          1,
+          "id"
+        ],
+        "value": "ceramide"
+      }
+    ]
+  },
+  {
+    "name": "product-concern-reference",
+    "code": "REFERENCE",
+    "edits": [
+      {
+        "path": [
+          "concerns"
+        ],
+        "value": [
+          {
+            "id": "soothing",
+            "label": "진정·민감",
+            "hint": "비교를 위한 테스트 선택지",
+            "evidence_ingredient_ids": [
+              "ceramide"
+            ],
+            "functional_category": null,
+            "order": 2
+          },
+          {
+            "id": "trouble",
+            "label": "트러블",
+            "hint": "비교를 위한 테스트 선택지",
+            "evidence_ingredient_ids": [
+              "ceramide"
+            ],
+            "functional_category": null,
+            "order": 3
+          },
+          {
+            "id": "brightening",
+            "label": "미백·잡티",
+            "hint": "비교를 위한 테스트 선택지",
+            "evidence_ingredient_ids": [
+              "ceramide"
+            ],
+            "functional_category": null,
+            "order": 4
+          },
+          {
+            "id": "wrinkle",
+            "label": "주름·탄력",
+            "hint": "비교를 위한 테스트 선택지",
+            "evidence_ingredient_ids": [
+              "ceramide"
+            ],
+            "functional_category": null,
+            "order": 5
+          },
+          {
+            "id": "pore",
+            "label": "모공·피지",
+            "hint": "비교를 위한 테스트 선택지",
+            "evidence_ingredient_ids": [
+              "ceramide"
+            ],
+            "functional_category": null,
+            "order": 6
+          },
+          {
+            "id": "sun",
+            "label": "자외선 차단",
+            "hint": "비교를 위한 테스트 선택지",
+            "evidence_ingredient_ids": [
+              "ceramide"
+            ],
+            "functional_category": null,
+            "order": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "key-ingredient-reference",
+    "code": "REFERENCE",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "key_ingredient_ids"
+        ],
+        "value": [
+          "missing"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "evidence-ingredient-reference",
+    "code": "REFERENCE",
+    "edits": [
+      {
+        "path": [
+          "concerns",
+          0,
+          "evidence_ingredient_ids"
+        ],
+        "value": [
+          "missing"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ingredient-concern-reference",
+    "code": "REFERENCE",
+    "edits": [
+      {
+        "path": [
+          "ingredients",
+          0,
+          "concern_ids"
+        ],
+        "value": [
+          "sun"
+        ]
+      },
+      {
+        "path": [
+          "concerns"
+        ],
+        "value": [
+          {
+            "id": "moisture",
+            "label": "보습",
+            "hint": "비교를 위한 테스트 선택지",
+            "evidence_ingredient_ids": [
+              "ceramide"
+            ],
+            "functional_category": null,
+            "order": 1
+          },
+          {
+            "id": "soothing",
+            "label": "진정·민감",
+            "hint": "비교를 위한 테스트 선택지",
+            "evidence_ingredient_ids": [
+              "ceramide"
+            ],
+            "functional_category": null,
+            "order": 2
+          },
+          {
+            "id": "trouble",
+            "label": "트러블",
+            "hint": "비교를 위한 테스트 선택지",
+            "evidence_ingredient_ids": [
+              "ceramide"
+            ],
+            "functional_category": null,
+            "order": 3
+          },
+          {
+            "id": "brightening",
+            "label": "미백·잡티",
+            "hint": "비교를 위한 테스트 선택지",
+            "evidence_ingredient_ids": [
+              "ceramide"
+            ],
+            "functional_category": null,
+            "order": 4
+          },
+          {
+            "id": "wrinkle",
+            "label": "주름·탄력",
+            "hint": "비교를 위한 테스트 선택지",
+            "evidence_ingredient_ids": [
+              "ceramide"
+            ],
+            "functional_category": null,
+            "order": 5
+          },
+          {
+            "id": "pore",
+            "label": "모공·피지",
+            "hint": "비교를 위한 테스트 선택지",
+            "evidence_ingredient_ids": [
+              "ceramide"
+            ],
+            "functional_category": null,
+            "order": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "group-limit",
+    "code": "GROUP_LIMIT",
+    "edits": [],
+    "copies": 6
+  },
+  {
+    "name": "total-limit",
+    "code": "TOTAL_LIMIT",
+    "edits": [],
+    "copies": 71
+  },
+  {
+    "name": "rank-low",
+    "code": "SCHEMA_RANGE",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "rank_in_group"
+        ],
+        "value": 0
+      }
+    ]
+  },
+  {
+    "name": "rank-high",
+    "code": "SCHEMA_RANGE",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "rank_in_group"
+        ],
+        "value": 6
+      }
+    ]
+  },
+  {
+    "name": "rank-fraction",
+    "code": "SCHEMA_RANGE",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "rank_in_group"
+        ],
+        "value": 1.5
+      }
+    ]
+  },
+  {
+    "name": "duplicate-rank",
+    "code": "DUPLICATE_RANK",
+    "edits": [
+      {
+        "path": [
+          "products",
+          1,
+          "rank_in_group"
+        ],
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "unit-value",
+    "code": "UNIT_PRICE",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "unit_price",
+          "value"
+        ],
+        "value": 201
+      }
+    ]
+  },
+  {
+    "name": "unit-basis",
+    "code": "UNIT_PRICE",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "unit_price",
+          "basis"
+        ],
+        "value": "10g"
+      }
+    ]
+  },
+  {
+    "name": "unit-required",
+    "code": "UNIT_PRICE",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "unit_price"
+        ],
+        "value": null
+      }
+    ]
+  },
+  {
+    "name": "unit-null-required",
+    "code": "UNIT_PRICE",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "volume_unit"
+        ],
+        "value": null
+      }
+    ]
+  },
+  {
+    "name": "unverified-price",
+    "code": "UNVERIFIED_REQUIRED",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "price_krw"
+        ],
+        "value": null
+      },
+      {
+        "path": [
+          "products",
+          0,
+          "price_source"
+        ],
+        "value": null
+      },
+      {
+        "path": [
+          "products",
+          0,
+          "unit_price"
+        ],
+        "value": null
+      }
+    ]
+  },
+  {
+    "name": "unverified-volume",
+    "code": "UNVERIFIED_REQUIRED",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "volume_value"
+        ],
+        "value": null
+      },
+      {
+        "path": [
+          "products",
+          0,
+          "unit_price"
+        ],
+        "value": null
+      }
+    ]
+  },
+  {
+    "name": "unverified-name",
+    "code": "UNVERIFIED_FIELD",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "unverified_fields"
+        ],
+        "value": [
+          "made_up"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "price-source-null",
+    "code": "PRICE_SOURCE",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "price_krw"
+        ],
+        "value": null
+      },
+      {
+        "path": [
+          "products",
+          0,
+          "unit_price"
+        ],
+        "value": null
+      },
+      {
+        "path": [
+          "products",
+          0,
+          "unverified_fields"
+        ],
+        "value": [
+          "price_krw"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "sources-minimum",
+    "code": "ARRAY_MIN",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "source_urls"
+        ],
+        "value": []
+      }
+    ]
+  },
+  {
+    "name": "rank-basis-minimum",
+    "code": "ARRAY_MIN",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "rank_basis"
+        ],
+        "value": []
+      }
+    ]
+  },
+  {
+    "name": "source-https",
+    "code": "URL_HTTPS",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "source_urls"
+        ],
+        "value": [
+          "http://example.org"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "nested-https",
+    "code": "URL_HTTPS",
+    "edits": [
+      {
+        "path": [
+          "ingredients",
+          1,
+          "functional",
+          "source_url"
+        ],
+        "value": "ftp://example.org"
+      }
+    ]
+  },
+  {
+    "name": "url-in-free-text",
+    "code": "URL_HTTPS",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "price_note"
+        ],
+        "value": "참고 http://example.org"
+      }
+    ]
+  },
+  {
+    "name": "checked-format",
+    "code": "DATE_FORMAT",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "checked_at"
+        ],
+        "value": "2026-2-01"
+      }
+    ]
+  },
+  {
+    "name": "checked-calendar",
+    "code": "DATE_FORMAT",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "checked_at"
+        ],
+        "value": "2026-02-30"
+      }
+    ]
+  },
+  {
+    "name": "checked-future",
+    "code": "FUTURE_DATE",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "checked_at"
+        ],
+        "value": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "name": "rank-date-format",
+    "code": "DATE_FORMAT",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "rank_basis",
+          0,
+          "published_at"
+        ],
+        "value": "2026-02-29"
+      }
+    ]
+  },
+  {
+    "name": "purchase-host-daiso",
+    "code": "PURCHASE_HOST",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "purchase_url"
+        ],
+        "value": "https://www.oliveyoung.co.kr/search"
+      }
+    ]
+  },
+  {
+    "name": "purchase-host-oliveyoung",
+    "code": "PURCHASE_HOST",
+    "edits": [
+      {
+        "path": [
+          "products",
+          3,
+          "purchase_url"
+        ],
+        "value": "https://www.daisomall.co.kr/search"
+      }
+    ]
+  },
+  {
+    "name": "purchase-host-subdomain",
+    "code": "PURCHASE_HOST",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "purchase_url"
+        ],
+        "value": "https://www.daisomall.co.kr.example.org/search"
+      }
+    ]
+  },
+  {
+    "name": "purchase-host-port",
+    "code": "PURCHASE_HOST",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "purchase_url"
+        ],
+        "value": "https://www.daisomall.co.kr:444/search"
+      }
+    ]
+  },
+  {
+    "name": "evidence-length",
+    "code": "EVIDENCE_LENGTH",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "evidence"
+        ],
+        "value": "가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가가"
+      }
+    ]
+  },
+  {
+    "name": "ingredient-evidence-length",
+    "code": "EVIDENCE_LENGTH",
+    "edits": [
+      {
+        "path": [
+          "ingredients",
+          0,
+          "evidence",
+          "note"
+        ],
+        "value": "나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나나"
+      }
+    ]
+  },
+  {
+    "name": "evidence-source-required",
+    "code": "EVIDENCE_SOURCE",
+    "edits": [
+      {
+        "path": [
+          "ingredients",
+          0,
+          "evidence",
+          "source_url"
+        ],
+        "value": null
+      }
+    ]
+  },
+  {
+    "name": "forbidden-nested",
+    "code": "FORBIDDEN_PHRASE",
+    "edits": [
+      {
+        "path": [
+          "ingredients",
+          0,
+          "aliases"
+        ],
+        "value": [
+          "즉효"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "forbidden-spaces",
+    "code": "FORBIDDEN_PHRASE",
+    "edits": [
+      {
+        "path": [
+          "products",
+          0,
+          "evidence"
+        ],
+        "value": "100 % 개 선"
+      }
+    ]
+  }
+]

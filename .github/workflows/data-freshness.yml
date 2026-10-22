@@ -1,0 +1,44 @@
+name: Data freshness
+
+on:
+  schedule:
+    - cron: '17 0 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: data-freshness-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    concurrency:
+      group: freshness-validate-${{ github.ref }}
+      cancel-in-progress: true
+    steps:
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@395ad3262231945c25e8478fd5baf05154b1d79f # v6.1.0
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - name: Validate and summarize stale records
+        shell: bash
+        run: |
+          work_dir="$(mktemp -d)"
+          if node scripts/validate-data.ts > "$work_dir/data-validation.txt"; then
+            status=0
+          else
+            status=$?
+          fi
+          cat "$work_dir/data-validation.txt"
+          cat "$work_dir/data-validation.txt" >> "$GITHUB_STEP_SUMMARY"
+          exit "$status"

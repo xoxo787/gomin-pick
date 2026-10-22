@@ -1,0 +1,176 @@
+[
+  {
+    "id": "ceramide",
+    "name_ko": "세라마이드",
+    "name_inci": null,
+    "aliases": [
+      "세라마이드"
+    ],
+    "concern_ids": [
+      "moisture"
+    ],
+    "functional": null,
+    "evidence": {
+      "status": "unverified",
+      "note": "샘플 화면 검사용 가상 성분 연결이며 실제 제품 근거가 아닙니다.",
+      "source_url": null
+    }
+  },
+  {
+    "id": "panthenol",
+    "name_ko": "판테놀",
+    "name_inci": null,
+    "aliases": [
+      "판테놀"
+    ],
+    "concern_ids": [
+      "moisture",
+      "soothing",
+      "trouble"
+    ],
+    "functional": null,
+    "evidence": {
+      "status": "unverified",
+      "note": "샘플 화면 검사용 가상 성분 연결이며 실제 제품 근거가 아닙니다.",
+      "source_url": null
+    }
+  },
+  {
+    "id": "glycerin",
+    "name_ko": "글리세린",
+    "name_inci": null,
+    "aliases": [
+      "글리세린"
+    ],
+    "concern_ids": [
+      "moisture"
+    ],
+    "functional": null,
+    "evidence": {
+      "status": "unverified",
+      "note": "샘플 화면 검사용 가상 성분 연결이며 실제 제품 근거가 아닙니다.",
+      "source_url": null
+    }
+  },
+  {
+    "id": "hyaluronic-acid",
+    "name_ko": "히알루론산",
+    "name_inci": null,
+    "aliases": [
+      "히알루론산"
+    ],
+    "concern_ids": [
+      "moisture"
+    ],
+    "functional": null,
+    "evidence": {
+      "status": "unverified",
+      "note": "샘플 화면 검사용 가상 성분 연결이며 실제 제품 근거가 아닙니다.",
+      "source_url": null
+    }
+  },
+  {
+    "id": "centella-asiatica",
+    "name_ko": "병풀추출물",
+    "name_inci": null,
+    "aliases": [
+      "병풀추출물"
+    ],
+    "concern_ids": [
+      "soothing"
+    ],
+    "functional": null,
+    "evidence": {
+      "status": "unverified",
+      "note": "샘플 화면 검사용 가상 성분 연결이며 실제 제품 근거가 아닙니다.",
+      "source_url": null
+    }
+  },
+  {
+    "id": "salicylic-acid",
+    "name_ko": "살리실산",
+    "name_inci": null,
+    "aliases": [
+      "살리실산"
+    ],
+    "concern_ids": [
+      "trouble",
+      "pore"
+    ],
+    "functional": null,
+    "evidence": {
+      "status": "unverified",
+      "note": "샘플 화면 검사용 가상 성분 연결이며 실제 제품 근거가 아닙니다.",
+      "source_url": null
+    }
+  },
+  {
+    "id": "niacinamide",
+    "name_ko": "나이아신아마이드",
+    "name_inci": null,
+    "aliases": [
+      "나이아신아마이드"
+    ],
+    "concern_ids": [
+      "brightening",
+      "pore"
+    ],
+    "functional": null,
+    "evidence": {
+      "status": "unverified",
+      "note": "샘플 화면 검사용 가상 성분 연결이며 실제 제품 근거가 아닙니다.",
+      "source_url": null
+    }
+  },
+  {
+    "id": "adenosine",
+    "name_ko": "아데노신",
+    "name_inci": null,
+    "aliases": [
+      "아데노신"
+    ],
+    "concern_ids": [
+      "wrinkle"
+    ],
+    "functional": null,
+    "evidence": {
+      "status": "unverified",
+      "note": "샘플 화면 검사용 가상 성분 연결이며 실제 제품 근거가 아닙니다.",
+      "source_url": null
+    }
+  },
+  {
+    "id": "retinol",
+    "name_ko": "레티놀",
+    "name_inci": null,
+    "aliases": [
+      "레티놀"
+    ],
+    "concern_ids": [
+      "wrinkle"
+    ],
+    "functional": null,
+    "evidence": {
+      "status": "unverified",
+      "note": "샘플 화면 검사용 가상 성분 연결이며 실제 제품 근거가 아닙니다.",
+      "source_url": null
+    }
+  },
+  {
+    "id": "zinc-oxide",
+    "name_ko": "징크옥사이드",
+    "name_inci": null,
+    "aliases": [
+      "징크옥사이드"
+    ],
+    "concern_ids": [
+      "sun"
+    ],
+    "functional": null,
+    "evidence": {
+      "status": "unverified",
+      "note": "샘플 화면 검사용 가상 성분 연결이며 실제 제품 근거가 아닙니다.",
+      "source_url": null
+    }
+  }
+]

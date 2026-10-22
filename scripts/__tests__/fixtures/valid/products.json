@@ -1,0 +1,290 @@
+[
+  {
+    "id": "daiso-fixture-1",
+    "shop": "daiso",
+    "concern_id": "moisture",
+    "rank_in_group": 1,
+    "brand": "테스트 브랜드",
+    "name": "실제 상품이 아닌 검사 예시 1",
+    "price_krw": 1000,
+    "price_source": "brand_official",
+    "volume_value": 50,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 200,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "ceramide"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "press",
+        "title": "테스트용 출처 제목",
+        "award_category": null,
+        "award_rank": null,
+        "published_at": "2026-10-01",
+        "source_url": "https://example.org/rank"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/search",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://example.org/product"
+    ],
+    "evidence": "실제 상품 정보가 아닌 검사 전용 데이터입니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "sensitive",
+      "skin_types"
+    ]
+  },
+  {
+    "id": "daiso-fixture-2",
+    "shop": "daiso",
+    "concern_id": "moisture",
+    "rank_in_group": 2,
+    "brand": "테스트 브랜드",
+    "name": "실제 상품이 아닌 검사 예시 2",
+    "price_krw": 1000,
+    "price_source": "brand_official",
+    "volume_value": 50,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 200,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "ceramide"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "press",
+        "title": "테스트용 출처 제목",
+        "award_category": null,
+        "award_rank": null,
+        "published_at": "2026-10-01",
+        "source_url": "https://example.org/rank"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/search",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://example.org/product"
+    ],
+    "evidence": "실제 상품 정보가 아닌 검사 전용 데이터입니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "sensitive",
+      "skin_types"
+    ]
+  },
+  {
+    "id": "daiso-fixture-3",
+    "shop": "daiso",
+    "concern_id": "moisture",
+    "rank_in_group": 3,
+    "brand": "테스트 브랜드",
+    "name": "실제 상품이 아닌 검사 예시 3",
+    "price_krw": 1000,
+    "price_source": "brand_official",
+    "volume_value": 50,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 200,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "ceramide"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "press",
+        "title": "테스트용 출처 제목",
+        "award_category": null,
+        "award_rank": null,
+        "published_at": "2026-10-01",
+        "source_url": "https://example.org/rank"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/search",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://example.org/product"
+    ],
+    "evidence": "실제 상품 정보가 아닌 검사 전용 데이터입니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "sensitive",
+      "skin_types"
+    ]
+  },
+  {
+    "id": "oliveyoung-fixture-1",
+    "shop": "oliveyoung",
+    "concern_id": "moisture",
+    "rank_in_group": 1,
+    "brand": "테스트 브랜드",
+    "name": "실제 상품이 아닌 검사 예시 1",
+    "price_krw": 1000,
+    "price_source": "brand_official",
+    "volume_value": 50,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 200,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "ceramide"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "press",
+        "title": "테스트용 출처 제목",
+        "award_category": null,
+        "award_rank": null,
+        "published_at": "2026-10-01",
+        "source_url": "https://example.org/rank"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/search",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://example.org/product"
+    ],
+    "evidence": "실제 상품 정보가 아닌 검사 전용 데이터입니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "sensitive",
+      "skin_types"
+    ]
+  },
+  {
+    "id": "oliveyoung-fixture-2",
+    "shop": "oliveyoung",
+    "concern_id": "moisture",
+    "rank_in_group": 2,
+    "brand": "테스트 브랜드",
+    "name": "실제 상품이 아닌 검사 예시 2",
+    "price_krw": 1000,
+    "price_source": "brand_official",
+    "volume_value": 50,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 200,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "ceramide"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "press",
+        "title": "테스트용 출처 제목",
+        "award_category": null,
+        "award_rank": null,
+        "published_at": "2026-10-01",
+        "source_url": "https://example.org/rank"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/search",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://example.org/product"
+    ],
+    "evidence": "실제 상품 정보가 아닌 검사 전용 데이터입니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "sensitive",
+      "skin_types"
+    ]
+  },
+  {
+    "id": "oliveyoung-fixture-3",
+    "shop": "oliveyoung",
+    "concern_id": "moisture",
+    "rank_in_group": 3,
+    "brand": "테스트 브랜드",
+    "name": "실제 상품이 아닌 검사 예시 3",
+    "price_krw": 1000,
+    "price_source": "brand_official",
+    "volume_value": 50,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 200,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "ceramide"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "press",
+        "title": "테스트용 출처 제목",
+        "award_category": null,
+        "award_rank": null,
+        "published_at": "2026-10-01",
+        "source_url": "https://example.org/rank"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/search",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://example.org/product"
+    ],
+    "evidence": "실제 상품 정보가 아닌 검사 전용 데이터입니다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영",
+    "unverified_fields": [
+      "sensitive",
+      "skin_types"
+    ]
+  }
+]

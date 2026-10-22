@@ -1,0 +1,1363 @@
+[
+  {
+    "id": "daiso-mimo-rosy-hyalon-liquid-mask",
+    "shop": "daiso",
+    "concern_id": "moisture",
+    "rank_in_group": 1,
+    "brand": "미모 바이 마몽드",
+    "name": "로지-히알론 리퀴드 마스크 2ml 6개입",
+    "price_krw": 3000,
+    "price_source": "press",
+    "volume_value": 12,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 2500,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "press",
+        "title": "다이소 초저가 뷰티와 미모 바이 마몽드 판매 동향",
+        "award_category": null,
+        "award_rank": null,
+        "published_at": "2026-04-24",
+        "source_url": "https://v.daum.net/v/20260424105404065"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EB%AF%B8%EB%AA%A8%20%EB%B0%94%EC%9D%B4%20%EB%A7%88%EB%AA%BD%EB%93%9C%20%EB%A1%9C%EC%A7%80-%ED%9E%88%EC%95%8C%EB%A1%A0%20%EB%A6%AC%ED%80%B4%EB%93%9C%20%EB%A7%88%EC%8A%A4%ED%81%AC%202ml%206%EA%B0%9C%EC%9E%85",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.mkhealth.co.kr/news/articleView.html?idxno=72330",
+      "https://v.daum.net/v/20260424105404065"
+    ],
+    "evidence": "리퀴드 마스크의 품절 사례와 3천원 구성을 언론에서 확인했다. 보습 배정과 표시 순서는 자체 큐레이션이다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영. 2025년 보도 가격 기준; 2ml 6개 총 12ml",
+    "unverified_fields": [
+      "key_ingredient_ids",
+      "functional_cosmetic",
+      "sensitive",
+      "skin_types"
+    ]
+  },
+  {
+    "id": "daiso-mimo-rosy-hyalon-moisture-ampoule",
+    "shop": "daiso",
+    "concern_id": "moisture",
+    "rank_in_group": 2,
+    "brand": "미모 바이 마몽드",
+    "name": "로지-히알론 수분 앰플 50ml",
+    "price_krw": 5000,
+    "price_source": "press",
+    "volume_value": 50,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 1000,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "press",
+        "title": "다이소 초저가 뷰티와 미모 바이 마몽드 판매 동향",
+        "award_category": null,
+        "award_rank": null,
+        "published_at": "2026-04-24",
+        "source_url": "https://v.daum.net/v/20260424105404065"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EB%AF%B8%EB%AA%A8%20%EB%B0%94%EC%9D%B4%20%EB%A7%88%EB%AA%BD%EB%93%9C%20%EB%A1%9C%EC%A7%80-%ED%9E%88%EC%95%8C%EB%A1%A0%20%EC%88%98%EB%B6%84%20%EC%95%B0%ED%94%8C%2050ml",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.mkhealth.co.kr/news/articleView.html?idxno=72330",
+      "https://v.daum.net/v/20260424105404065"
+    ],
+    "evidence": "100만개 판매 보도가 있는 브랜드의 보습 라인이다. 개별 제품 판매순위는 미공개이며 보습 배정·순서는 자체 큐레이션이다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영. 2025년 보도 가격 기준",
+    "unverified_fields": [
+      "key_ingredient_ids",
+      "functional_cosmetic",
+      "sensitive",
+      "skin_types"
+    ]
+  },
+  {
+    "id": "daiso-mimo-rosy-hyalon-moisture-cream",
+    "shop": "daiso",
+    "concern_id": "moisture",
+    "rank_in_group": 3,
+    "brand": "미모 바이 마몽드",
+    "name": "로지-히알론 수분 크림 60ml",
+    "price_krw": 5000,
+    "price_source": "press",
+    "volume_value": 60,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 833,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "press",
+        "title": "다이소 초저가 뷰티와 미모 바이 마몽드 판매 동향",
+        "award_category": null,
+        "award_rank": null,
+        "published_at": "2026-04-24",
+        "source_url": "https://v.daum.net/v/20260424105404065"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EB%AF%B8%EB%AA%A8%20%EB%B0%94%EC%9D%B4%20%EB%A7%88%EB%AA%BD%EB%93%9C%20%EB%A1%9C%EC%A7%80-%ED%9E%88%EC%95%8C%EB%A1%A0%20%EC%88%98%EB%B6%84%20%ED%81%AC%EB%A6%BC%2060ml",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.mkhealth.co.kr/news/articleView.html?idxno=72330",
+      "https://v.daum.net/v/20260424105404065"
+    ],
+    "evidence": "100만개 판매 보도가 있는 브랜드의 보습 라인이다. 개별 제품 판매순위는 미공개이며 보습 배정·순서는 자체 큐레이션이다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영. 2025년 보도 가격 기준",
+    "unverified_fields": [
+      "key_ingredient_ids",
+      "functional_cosmetic",
+      "sensitive",
+      "skin_types"
+    ]
+  },
+  {
+    "id": "daiso-madeca21-teca-soothing-mist-toner",
+    "shop": "daiso",
+    "concern_id": "soothing",
+    "rank_in_group": 1,
+    "brand": "마데카21",
+    "name": "테카 솔루션 수딩 미스트 토너 200ml",
+    "price_krw": 5000,
+    "price_source": "press",
+    "volume_value": 200,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 250,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "press",
+        "title": "다이소 뷰티 인기 상품 및 재입고 요청 보도",
+        "award_category": null,
+        "award_rank": "재입고 요청 3위",
+        "published_at": "2025-07-01",
+        "source_url": "https://v.daum.net/v/GWn9SZDxvy"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EB%A7%88%EB%8D%B0%EC%B9%B421%20%ED%85%8C%EC%B9%B4%20%EC%86%94%EB%A3%A8%EC%85%98%20%EC%88%98%EB%94%A9%20%EB%AF%B8%EC%8A%A4%ED%8A%B8%20%ED%86%A0%EB%84%88%20200ml",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://v.daum.net/v/GWn9SZDxvy",
+      "https://www.ktnews.com/news/articleView.html?idxno=142500"
+    ],
+    "evidence": "2025년 상반기 다이소몰 재입고 요청 상위 상품으로 보도됐다. 진정·민감 배정은 자체 큐레이션이며 전성분은 미확인이다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영. 보도 당시 가격 기준",
+    "unverified_fields": [
+      "key_ingredient_ids",
+      "functional_cosmetic",
+      "sensitive",
+      "skin_types"
+    ]
+  },
+  {
+    "id": "daiso-cnp-od-td-spot-calming-gel",
+    "shop": "daiso",
+    "concern_id": "trouble",
+    "rank_in_group": 1,
+    "brand": "CNP 바이 오디-티디",
+    "name": "스팟 카밍 젤 10ml",
+    "price_krw": 5000,
+    "price_source": "press",
+    "volume_value": 10,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 5000,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "press",
+        "title": "LG생활건강, 다이소 전용 CNP 바이 오디-티디 100만개 판매",
+        "award_category": null,
+        "award_rank": null,
+        "published_at": "2025-06-01",
+        "source_url": "https://www.etoday.co.kr/news/view/2475415"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=CNP%20%EB%B0%94%EC%9D%B4%20%EC%98%A4%EB%94%94-%ED%8B%B0%EB%94%94%20%EC%8A%A4%ED%8C%9F%20%EC%B9%B4%EB%B0%8D%20%EC%A0%A4%2010ml",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.etoday.co.kr/news/view/2475415",
+      "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=222294"
+    ],
+    "evidence": "해당 젤의 품절 사례와 브랜드 판매량이 보도됐다. 트러블 배정·표시 순서는 자체 큐레이션이며 전성분은 미확인이다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영. 보도 당시 가격 기준",
+    "unverified_fields": [
+      "key_ingredient_ids",
+      "functional_cosmetic",
+      "sensitive",
+      "skin_types"
+    ]
+  },
+  {
+    "id": "daiso-mimo-peony-tinol-trouble-balm",
+    "shop": "daiso",
+    "concern_id": "trouble",
+    "rank_in_group": 2,
+    "brand": "미모 바이 마몽드",
+    "name": "피어니-티놀 트러블 밤 10ml",
+    "price_krw": 3000,
+    "price_source": "press",
+    "volume_value": 10,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 3000,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "press",
+        "title": "다이소 초저가 뷰티와 미모 바이 마몽드 판매 동향",
+        "award_category": null,
+        "award_rank": null,
+        "published_at": "2026-04-24",
+        "source_url": "https://v.daum.net/v/20260424105404065"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EB%AF%B8%EB%AA%A8%20%EB%B0%94%EC%9D%B4%20%EB%A7%88%EB%AA%BD%EB%93%9C%20%ED%94%BC%EC%96%B4%EB%8B%88-%ED%8B%B0%EB%86%80%20%ED%8A%B8%EB%9F%AC%EB%B8%94%20%EB%B0%A4%2010ml",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.mkhealth.co.kr/news/articleView.html?idxno=72330",
+      "https://v.daum.net/v/20260424105404065"
+    ],
+    "evidence": "인기 브랜드의 트러블 밤으로 용량·가격이 보도됐다. 개별 판매순위는 미공개이며 트러블 배정은 자체 큐레이션이다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영. 보도 당시 가격 기준",
+    "unverified_fields": [
+      "key_ingredient_ids",
+      "functional_cosmetic",
+      "sensitive",
+      "skin_types"
+    ]
+  },
+  {
+    "id": "daiso-boncept-vitac-double-shot-kit",
+    "shop": "daiso",
+    "concern_id": "brightening",
+    "rank_in_group": 1,
+    "brand": "본셉",
+    "name": "비타씨 동결건조 더블샷 앰플 키트",
+    "price_krw": 5000,
+    "price_source": "press",
+    "volume_value": null,
+    "volume_unit": null,
+    "unit_price": null,
+    "key_ingredient_ids": [],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "press",
+        "title": "다이소 뷰티 인기 상품 및 재입고 요청 보도",
+        "award_category": null,
+        "award_rank": "재입고 요청 1위",
+        "published_at": "2025-07-01",
+        "source_url": "https://v.daum.net/v/GWn9SZDxvy"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EB%B3%B8%EC%85%89%20%EB%B9%84%ED%83%80%EC%94%A8%20%EB%8F%99%EA%B2%B0%EA%B1%B4%EC%A1%B0%20%EB%8D%94%EB%B8%94%EC%83%B7%20%EC%95%B0%ED%94%8C%20%ED%82%A4%ED%8A%B8",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://v.daum.net/v/GWn9SZDxvy"
+    ],
+    "evidence": "2025년 상반기 재입고 요청 1위 보도를 근거로 선정했다. 미백·잡티 배정은 자체 큐레이션이며 완제품 기능성은 미확인이다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영. 보도 당시 키트 가격 기준; 고형·액상 혼합 키트의 총용량은 확인 필요",
+    "unverified_fields": [
+      "volume_value",
+      "volume_unit",
+      "unit_price",
+      "key_ingredient_ids",
+      "functional_cosmetic",
+      "sensitive",
+      "skin_types"
+    ]
+  },
+  {
+    "id": "daiso-droracle-curesona-radiance-glow-ampoule",
+    "shop": "daiso",
+    "concern_id": "brightening",
+    "rank_in_group": 2,
+    "brand": "닥터오라클",
+    "name": "큐어소나 래디언스 글로우 앰플 40ml",
+    "price_krw": 5000,
+    "price_source": "press",
+    "volume_value": 40,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 1250,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "press",
+        "title": "다이소 뷰티 인기 상품 및 재입고 요청 보도",
+        "award_category": null,
+        "award_rank": "재입고 요청 2위",
+        "published_at": "2025-07-01",
+        "source_url": "https://v.daum.net/v/GWn9SZDxvy"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EB%8B%A5%ED%84%B0%EC%98%A4%EB%9D%BC%ED%81%B4%20%ED%81%90%EC%96%B4%EC%86%8C%EB%82%98%20%EB%9E%98%EB%94%94%EC%96%B8%EC%8A%A4%20%EA%B8%80%EB%A1%9C%EC%9A%B0%20%EC%95%B0%ED%94%8C%2040ml",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://v.daum.net/v/GWn9SZDxvy"
+    ],
+    "evidence": "2025년 상반기 재입고 요청 2위로 보도된 앰플이다. 미백·잡티 배정은 자체 큐레이션이며 전성분·완제품 기능성은 미확인이다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영. 보도 당시 가격 기준",
+    "unverified_fields": [
+      "key_ingredient_ids",
+      "functional_cosmetic",
+      "sensitive",
+      "skin_types"
+    ]
+  },
+  {
+    "id": "daiso-medipeel-extra-super9-wrapping-mask",
+    "shop": "daiso",
+    "concern_id": "wrinkle",
+    "rank_in_group": 1,
+    "brand": "메디필",
+    "name": "엑스트라 슈퍼 9 플러스 물광 리프팅 랩핑 마스크 4ml 4개입",
+    "price_krw": 3000,
+    "price_source": "press",
+    "volume_value": 16,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 1875,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "niacinamide",
+      "adenosine",
+      "panthenol",
+      "hyaluronic-acid",
+      "centella-asiatica",
+      "allantoin"
+    ],
+    "functional_cosmetic": {
+      "categories": [
+        "whitening",
+        "wrinkle"
+      ],
+      "source_url": "https://medipeel.co.kr/product/%EB%8B%A4%EC%9D%B4%EC%86%8C-%EC%A0%84%EC%9A%A9-%EC%97%91%EC%8A%A4%ED%8A%B8%EB%9D%BC-%EC%8A%88%ED%8D%BC-9-%ED%94%8C%EB%9F%AC%EC%8A%A4-%EB%AC%BC%EA%B4%91-%EB%A6%AC%ED%94%84%ED%8C%85-%EB%9E%A9%ED%95%91-%EB%A7%88%EC%8A%A4%ED%81%AC4ml4ea/3299/"
+    },
+    "sensitive": {
+      "fragrance": true,
+      "ethanol": false,
+      "source_url": "https://medipeel.co.kr/product/%EB%8B%A4%EC%9D%B4%EC%86%8C-%EC%A0%84%EC%9A%A9-%EC%97%91%EC%8A%A4%ED%8A%B8%EB%9D%BC-%EC%8A%88%ED%8D%BC-9-%ED%94%8C%EB%9F%AC%EC%8A%A4-%EB%AC%BC%EA%B4%91-%EB%A6%AC%ED%94%84%ED%8C%85-%EB%9E%A9%ED%95%91-%EB%A7%88%EC%8A%A4%ED%81%AC4ml4ea/3299/"
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "press",
+        "title": "다이소 뷰티 인기 상품 및 재입고 요청 보도",
+        "award_category": null,
+        "award_rank": "매출 6위",
+        "published_at": "2025-07-01",
+        "source_url": "https://v.daum.net/v/GWn9SZDxvy"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EB%A9%94%EB%94%94%ED%95%84%20%EC%97%91%EC%8A%A4%ED%8A%B8%EB%9D%BC%20%EC%8A%88%ED%8D%BC%209%20%ED%94%8C%EB%9F%AC%EC%8A%A4%20%EB%AC%BC%EA%B4%91%20%EB%A6%AC%ED%94%84%ED%8C%85%20%EB%9E%A9%ED%95%91%20%EB%A7%88%EC%8A%A4%ED%81%AC%204ml%204%EA%B0%9C%EC%9E%85",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://v.daum.net/v/GWn9SZDxvy",
+      "https://medipeel.co.kr/product/%EB%8B%A4%EC%9D%B4%EC%86%8C-%EC%A0%84%EC%9A%A9-%EC%97%91%EC%8A%A4%ED%8A%B8%EB%9D%BC-%EC%8A%88%ED%8D%BC-9-%ED%94%8C%EB%9F%AC%EC%8A%A4-%EB%AC%BC%EA%B4%91-%EB%A6%AC%ED%94%84%ED%8C%85-%EB%9E%A9%ED%95%91-%EB%A7%88%EC%8A%A4%ED%81%AC4ml4ea/3299/"
+    ],
+    "evidence": "2025년 상반기 다이소몰 매출 상위 보도와 공식 다이소 전용 상품의 기능성·전성분을 확인했다. 주름·탄력 배정은 자체 큐레이션이다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영. 보도 당시 3천원; 공식 다이소 전용 4ml 4개 총 16ml, 70ml 일반몰 상품과 구분",
+    "unverified_fields": [
+      "skin_types"
+    ]
+  },
+  {
+    "id": "daiso-boncept-retinol-2500-wrinkle-shot",
+    "shop": "daiso",
+    "concern_id": "wrinkle",
+    "rank_in_group": 2,
+    "brand": "본셉",
+    "name": "레티놀 2500IU 링클샷 퍼펙터",
+    "price_krw": 5000,
+    "price_source": "press",
+    "volume_value": null,
+    "volume_unit": null,
+    "unit_price": null,
+    "key_ingredient_ids": [
+      "retinol"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "press",
+        "title": "토니모리 유통망 다각화와 본셉 레티놀 제품 품절 보도",
+        "award_category": null,
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.dailian.co.kr/news/view/1361825"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EB%B3%B8%EC%85%89%20%EB%A0%88%ED%8B%B0%EB%86%80%202500IU%20%EB%A7%81%ED%81%B4%EC%83%B7%20%ED%8D%BC%ED%8E%99%ED%84%B0",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.dailian.co.kr/news/view/1361825"
+    ],
+    "evidence": "레티놀 2500IU 제품의 5천원 가격과 품절 사례가 보도됐다. 주름·탄력 배정은 자체 큐레이션이며 용량은 미확인이다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영. 보도 당시 가격 기준",
+    "unverified_fields": [
+      "volume_value",
+      "volume_unit",
+      "unit_price",
+      "functional_cosmetic",
+      "sensitive",
+      "skin_types"
+    ]
+  },
+  {
+    "id": "daiso-vt-reedle-shot-100",
+    "shop": "daiso",
+    "concern_id": "pore",
+    "rank_in_group": 1,
+    "brand": "VT",
+    "name": "리들샷 100 페이셜 부스팅 퍼스트 앰플 2ml 6개입",
+    "price_krw": 3000,
+    "price_source": "press",
+    "volume_value": 12,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 2500,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "press",
+        "title": "다이소 뷰티 인기 상품 및 재입고 요청 보도",
+        "award_category": null,
+        "award_rank": "매출 1위",
+        "published_at": "2025-07-01",
+        "source_url": "https://v.daum.net/v/GWn9SZDxvy"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=VT%20%EB%A6%AC%EB%93%A4%EC%83%B7%20100%20%ED%8E%98%EC%9D%B4%EC%85%9C%20%EB%B6%80%EC%8A%A4%ED%8C%85%20%ED%8D%BC%EC%8A%A4%ED%8A%B8%20%EC%95%B0%ED%94%8C%202ml%206%EA%B0%9C%EC%9E%85",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://v.daum.net/v/GWn9SZDxvy",
+      "https://v.daum.net/v/20240722150401545"
+    ],
+    "evidence": "2025년 상반기 다이소몰 매출 상위 보도와 2ml 6개 구성을 확인했다. 피부결 제품을 모공·피지에 배정한 것은 자체 큐레이션이다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영. 다이소 전용 2ml 6개 총 12ml; 일반몰 50ml 제품의 성분을 전용하지 않음",
+    "unverified_fields": [
+      "key_ingredient_ids",
+      "functional_cosmetic",
+      "sensitive",
+      "skin_types"
+    ]
+  },
+  {
+    "id": "daiso-vt-reedle-shot-300",
+    "shop": "daiso",
+    "concern_id": "pore",
+    "rank_in_group": 2,
+    "brand": "VT",
+    "name": "리들샷 300 페이셜 부스팅 퍼스트 앰플 2ml 6개입",
+    "price_krw": 3000,
+    "price_source": "press",
+    "volume_value": 12,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 2500,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "press",
+        "title": "다이소 뷰티 인기 상품 및 재입고 요청 보도",
+        "award_category": null,
+        "award_rank": "매출 3위",
+        "published_at": "2025-07-01",
+        "source_url": "https://v.daum.net/v/GWn9SZDxvy"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=VT%20%EB%A6%AC%EB%93%A4%EC%83%B7%20300%20%ED%8E%98%EC%9D%B4%EC%85%9C%20%EB%B6%80%EC%8A%A4%ED%8C%85%20%ED%8D%BC%EC%8A%A4%ED%8A%B8%20%EC%95%B0%ED%94%8C%202ml%206%EA%B0%9C%EC%9E%85",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://v.daum.net/v/GWn9SZDxvy",
+      "https://v.daum.net/v/20240722150401545"
+    ],
+    "evidence": "2025년 상반기 다이소몰 매출 상위 보도와 2ml 6개 구성을 확인했다. 피부결 제품을 모공·피지에 배정한 것은 자체 큐레이션이다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영. 다이소 전용 2ml 6개 총 12ml; 일반몰 50ml 제품의 성분을 전용하지 않음",
+    "unverified_fields": [
+      "key_ingredient_ids",
+      "functional_cosmetic",
+      "sensitive",
+      "skin_types"
+    ]
+  },
+  {
+    "id": "daiso-mimo-peony-tinol-pore-ampoule",
+    "shop": "daiso",
+    "concern_id": "pore",
+    "rank_in_group": 3,
+    "brand": "미모 바이 마몽드",
+    "name": "피어니-티놀 모공 앰플 50ml",
+    "price_krw": 5000,
+    "price_source": "press",
+    "volume_value": 50,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 1000,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "press",
+        "title": "다이소 초저가 뷰티와 미모 바이 마몽드 판매 동향",
+        "award_category": null,
+        "award_rank": null,
+        "published_at": "2026-04-24",
+        "source_url": "https://v.daum.net/v/20260424105404065"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EB%AF%B8%EB%AA%A8%20%EB%B0%94%EC%9D%B4%20%EB%A7%88%EB%AA%BD%EB%93%9C%20%ED%94%BC%EC%96%B4%EB%8B%88-%ED%8B%B0%EB%86%80%20%EB%AA%A8%EA%B3%B5%20%EC%95%B0%ED%94%8C%2050ml",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.mkhealth.co.kr/news/articleView.html?idxno=72330",
+      "https://v.daum.net/v/20260424105404065"
+    ],
+    "evidence": "인기 브랜드의 모공 앰플로 가격·용량이 보도됐다. 개별 판매순위는 미공개이며 모공·피지 배정·순서는 자체 큐레이션이다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영. 보도 당시 가격 기준",
+    "unverified_fields": [
+      "key_ingredient_ids",
+      "functional_cosmetic",
+      "sensitive",
+      "skin_types"
+    ]
+  },
+  {
+    "id": "daiso-dewytree-tone-up-shade-pink-sun",
+    "shop": "daiso",
+    "concern_id": "sun",
+    "rank_in_group": 1,
+    "brand": "듀이트리",
+    "name": "톤업 쉐이드 핑크 톤업 선",
+    "price_krw": null,
+    "price_source": null,
+    "volume_value": null,
+    "volume_unit": null,
+    "unit_price": null,
+    "key_ingredient_ids": [],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "press",
+        "title": "듀이트리 톤업 쉐이드 선 라인 다이소 품절 보도",
+        "award_category": null,
+        "award_rank": null,
+        "published_at": "2025-04-18",
+        "source_url": "https://www.lawissue.co.kr/view.php?ud=202504180916196533204ead0791_12"
+      }
+    ],
+    "purchase_url": "https://www.daisomall.co.kr/ds/dst/SCR_DST_0015?searchTerm=%EB%93%80%EC%9D%B4%ED%8A%B8%EB%A6%AC%20%ED%86%A4%EC%97%85%20%EC%89%90%EC%9D%B4%EB%93%9C%20%ED%95%91%ED%81%AC%20%ED%86%A4%EC%97%85%20%EC%84%A0",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.lawissue.co.kr/view.php?ud=202504180916196533204ead0791_12"
+    ],
+    "evidence": "다이소에서 핑크 톤업 선의 인기와 품절이 보도됐다. 자외선 차단 배정은 자체 큐레이션이며 정가·용량은 확인 필요다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영. 기사에는 5천원대로 표기되어 정확한 정가와 대표 용량을 확정하지 않음",
+    "unverified_fields": [
+      "price_krw",
+      "price_source",
+      "volume_value",
+      "volume_unit",
+      "unit_price",
+      "key_ingredient_ids",
+      "functional_cosmetic",
+      "sensitive",
+      "skin_types"
+    ]
+  },
+  {
+    "id": "oliveyoung-torriden-dive-in-serum-50",
+    "shop": "oliveyoung",
+    "concern_id": "moisture",
+    "rank_in_group": 1,
+    "brand": "토리든",
+    "name": "다이브인 저분자 히알루론산 세럼 50ml",
+    "price_krw": 22000,
+    "price_source": "brand_official",
+    "volume_value": 50,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 4400,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "hyaluronic-acid"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "award",
+        "title": "2025 올리브영 어워즈 발표: 부문별 1위 제품",
+        "award_category": "에센스·세럼",
+        "award_rank": "1위",
+        "published_at": "2025-12-24",
+        "source_url": "https://www.insight.co.kr/news/535111"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%ED%86%A0%EB%A6%AC%EB%93%A0%20%EB%8B%A4%EC%9D%B4%EB%B8%8C%EC%9D%B8%20%EC%A0%80%EB%B6%84%EC%9E%90%20%ED%9E%88%EC%95%8C%EB%A3%A8%EB%A1%A0%EC%82%B0%20%EC%84%B8%EB%9F%BC%2050ml",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://cjnews.cj.net/%EB%AA%A8%EB%91%90%EA%B0%80-%EC%82%AC%EB%9E%91%ED%95%9C-%EC%A0%9C%ED%92%88%EC%9D%84-%EB%AA%A8%EB%91%90%EA%B0%80-%EC%82%AC%EB%9E%91%ED%95%A0-%ED%98%9C%ED%83%9D%EC%9C%BC%EB%A1%9C-cj/",
+      "https://www.insight.co.kr/news/535111",
+      "https://www.torriden.com/goods/goods_view.php?goodsNo=2268"
+    ],
+    "evidence": "2025 어워즈 에센스·세럼 1위 라인이다. 현행 NEW 50ml 옵션을 기록했으며 부문→보습 매핑은 자체 큐레이션이다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영. 브랜드 공식몰 정가 기준, 올리브영 판매가와 다를 수 있음. 현행 NEW 50ml 단품; 수상 당시 구성·처방과 동일성은 미확인",
+    "unverified_fields": [
+      "functional_cosmetic",
+      "sensitive",
+      "skin_types"
+    ]
+  },
+  {
+    "id": "oliveyoung-aestura-atobarrier365-cream-80",
+    "shop": "oliveyoung",
+    "concern_id": "moisture",
+    "rank_in_group": 2,
+    "brand": "에스트라",
+    "name": "아토베리어365 크림 80ml",
+    "price_krw": null,
+    "price_source": null,
+    "volume_value": 80,
+    "volume_unit": "ml",
+    "unit_price": null,
+    "key_ingredient_ids": [
+      "ceramide-np",
+      "glycerin",
+      "niacinamide",
+      "allantoin"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": false,
+      "ethanol": false,
+      "source_url": "https://www.aestura.com/m/product/view.do?prdSeq=1021&searchText=365"
+    },
+    "skin_types": [
+      "dry",
+      "sensitive"
+    ],
+    "rank_basis": [
+      {
+        "kind": "award",
+        "title": "2025 올리브영 어워즈 발표: 부문별 1위 제품",
+        "award_category": "크림",
+        "award_rank": "1위",
+        "published_at": "2025-12-24",
+        "source_url": "https://www.insight.co.kr/news/535111"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EC%97%90%EC%8A%A4%ED%8A%B8%EB%9D%BC%20%EC%95%84%ED%86%A0%EB%B2%A0%EB%A6%AC%EC%96%B4365%20%ED%81%AC%EB%A6%BC%2080ml",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://cjnews.cj.net/%EB%AA%A8%EB%91%90%EA%B0%80-%EC%82%AC%EB%9E%91%ED%95%9C-%EC%A0%9C%ED%92%88%EC%9D%84-%EB%AA%A8%EB%91%90%EA%B0%80-%EC%82%AC%EB%9E%91%ED%95%A0-%ED%98%9C%ED%83%9D%EC%9C%BC%EB%A1%9C-cj/",
+      "https://www.insight.co.kr/news/535111",
+      "https://www.aestura.com/m/product/view.do?prdSeq=1021&searchText=365"
+    ],
+    "evidence": "2025 어워즈 크림 1위와 공식 80ml 제품의 전성분을 확인했다. 부문→보습 매핑은 자체 큐레이션이며 정가는 확인 필요다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영. 공식 80ml 단품 기준; 가격 확인 필요",
+    "unverified_fields": [
+      "price_krw",
+      "price_source",
+      "unit_price",
+      "functional_cosmetic"
+    ]
+  },
+  {
+    "id": "oliveyoung-torriden-dive-in-mask-10",
+    "shop": "oliveyoung",
+    "concern_id": "moisture",
+    "rank_in_group": 3,
+    "brand": "토리든",
+    "name": "다이브인 저분자 히알루론산 마스크 27ml 10매",
+    "price_krw": 30000,
+    "price_source": "brand_official",
+    "volume_value": 10,
+    "volume_unit": "ea",
+    "unit_price": {
+      "value": 3000,
+      "basis": "1ea"
+    },
+    "key_ingredient_ids": [
+      "hyaluronic-acid"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "award",
+        "title": "토리든, 올리브영서 산리오캐릭터즈 에디션 선보여",
+        "award_category": "마스크팩",
+        "award_rank": "1위",
+        "published_at": "2026-08-31",
+        "source_url": "https://www.hinews.co.kr/view.php?ud=2026083114392933949aeda69934_48"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%ED%86%A0%EB%A6%AC%EB%93%A0%20%EB%8B%A4%EC%9D%B4%EB%B8%8C%EC%9D%B8%20%EC%A0%80%EB%B6%84%EC%9E%90%20%ED%9E%88%EC%95%8C%EB%A3%A8%EB%A1%A0%EC%82%B0%20%EB%A7%88%EC%8A%A4%ED%81%AC%2027ml%2010%EB%A7%A4",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://cjnews.cj.net/%EB%AA%A8%EB%91%90%EA%B0%80-%EC%82%AC%EB%9E%91%ED%95%9C-%EC%A0%9C%ED%92%88%EC%9D%84-%EB%AA%A8%EB%91%90%EA%B0%80-%EC%82%AC%EB%9E%91%ED%95%A0-%ED%98%9C%ED%83%9D%EC%9C%BC%EB%A1%9C-cj/",
+      "https://www.hinews.co.kr/view.php?ud=2026083114392933949aeda69934_48",
+      "https://www.torriden.com/goods/goods_view.php?goodsNo=2270"
+    ],
+    "evidence": "2025 어워즈 마스크팩 1위 제품으로 지목한 보도를 확인했다. 현행 NEW 10매 옵션이며 부문→보습 매핑은 자체 큐레이션이다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영. 브랜드 공식몰 정가 기준, 올리브영 판매가와 다를 수 있음. 현행 NEW 27ml 10매 묶음, 매당 단가; 수상 당시 구성·처방과 동일성은 미확인. 보도 속 한정판 증정 구성과 구분",
+    "unverified_fields": [
+      "functional_cosmetic",
+      "sensitive",
+      "skin_types"
+    ]
+  },
+  {
+    "id": "oliveyoung-mediheal-madecassoside-pad-100",
+    "shop": "oliveyoung",
+    "concern_id": "soothing",
+    "rank_in_group": 1,
+    "brand": "메디힐",
+    "name": "마데카소사이드 흔적 토너패드 100매",
+    "price_krw": 26000,
+    "price_source": "brand_official",
+    "volume_value": 100,
+    "volume_unit": "ea",
+    "unit_price": {
+      "value": 260,
+      "basis": "1ea"
+    },
+    "key_ingredient_ids": [
+      "madecassoside",
+      "centella-asiatica",
+      "niacinamide",
+      "glycerin",
+      "allantoin"
+    ],
+    "functional_cosmetic": {
+      "categories": [
+        "whitening"
+      ],
+      "source_url": "https://www.medihealshop.com/product/%EB%A7%88%EB%8D%B0%EC%B9%B4%EC%86%8C%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%9D%94%EC%A0%81-%ED%86%A0%EB%84%88%ED%8C%A8%EB%93%9C-100%EB%A7%A4/1710/category/1/display/3/?icid=MAIN.product_listmain_2"
+    },
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": false,
+      "source_url": "https://www.medihealshop.com/product/%EB%A7%88%EB%8D%B0%EC%B9%B4%EC%86%8C%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%9D%94%EC%A0%81-%ED%86%A0%EB%84%88%ED%8C%A8%EB%93%9C-100%EB%A7%A4/1710/category/1/display/3/?icid=MAIN.product_listmain_2"
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "award",
+        "title": "2025 올리브영 어워즈 발표: 부문별 1위 제품",
+        "award_category": "패드",
+        "award_rank": "1위",
+        "published_at": "2025-12-24",
+        "source_url": "https://www.insight.co.kr/news/535111"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EB%A9%94%EB%94%94%ED%9E%90%20%EB%A7%88%EB%8D%B0%EC%B9%B4%EC%86%8C%EC%82%AC%EC%9D%B4%EB%93%9C%20%ED%9D%94%EC%A0%81%20%ED%86%A0%EB%84%88%ED%8C%A8%EB%93%9C%20100%EB%A7%A4",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://cjnews.cj.net/%EB%AA%A8%EB%91%90%EA%B0%80-%EC%82%AC%EB%9E%91%ED%95%9C-%EC%A0%9C%ED%92%88%EC%9D%84-%EB%AA%A8%EB%91%90%EA%B0%80-%EC%82%AC%EB%9E%91%ED%95%A0-%ED%98%9C%ED%83%9D%EC%9C%BC%EB%A1%9C-cj/",
+      "https://www.insight.co.kr/news/535111",
+      "https://www.medihealshop.com/product/%EB%A7%88%EB%8D%B0%EC%B9%B4%EC%86%8C%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%9D%94%EC%A0%81-%ED%86%A0%EB%84%88%ED%8C%A8%EB%93%9C-100%EB%A7%A4/1710/category/1/display/3/?icid=MAIN.product_listmain_2"
+    ],
+    "evidence": "2025 어워즈 패드 1위와 공식 100매 상품정보를 확인했다. 부문→진정·민감 매핑은 자체 큐레이션이며 향료 판단은 보류했다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영. 브랜드 공식몰 정가 기준, 올리브영 판매가와 다를 수 있음. 100매 본품의 매당 단가; 액상 중량과 합산하지 않음",
+    "unverified_fields": [
+      "sensitive",
+      "skin_types"
+    ]
+  },
+  {
+    "id": "oliveyoung-biohealboh-panthecell-cream-mist",
+    "shop": "oliveyoung",
+    "concern_id": "soothing",
+    "rank_in_group": 2,
+    "brand": "바이오힐 보",
+    "name": "판테셀 리페어시카 크림미스트",
+    "price_krw": null,
+    "price_source": null,
+    "volume_value": null,
+    "volume_unit": null,
+    "unit_price": null,
+    "key_ingredient_ids": [
+      "panthenol"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": [
+      "sensitive"
+    ],
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "CJ 공식 바이오힐 보 베스트셀러 소개",
+        "award_category": null,
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://corp.oliveyoung.com/ko/business/brand/boh"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EB%B0%94%EC%9D%B4%EC%98%A4%ED%9E%90%20%EB%B3%B4%20%ED%8C%90%ED%85%8C%EC%85%80%20%EB%A6%AC%ED%8E%98%EC%96%B4%EC%8B%9C%EC%B9%B4%20%ED%81%AC%EB%A6%BC%EB%AF%B8%EC%8A%A4%ED%8A%B8",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://corp.oliveyoung.com/ko/business/brand/boh"
+    ],
+    "evidence": "CJ 공식 소개의 2023년 8월~2025년 9월 누적 150만개 판매 제품이다. 진정·민감 배정은 자체 큐레이션이며 가격·용량은 미확인이다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영. 대표 용량과 정가 확인 필요",
+    "unverified_fields": [
+      "price_krw",
+      "price_source",
+      "volume_value",
+      "volume_unit",
+      "unit_price",
+      "functional_cosmetic",
+      "sensitive"
+    ]
+  },
+  {
+    "id": "oliveyoung-bringgreen-zinc-teca-trouble-serum-25",
+    "shop": "oliveyoung",
+    "concern_id": "trouble",
+    "rank_in_group": 1,
+    "brand": "브링그린",
+    "name": "징크테카 트러블 세럼 25ml",
+    "price_krw": null,
+    "price_source": null,
+    "volume_value": 25,
+    "volume_unit": "ml",
+    "unit_price": null,
+    "key_ingredient_ids": [],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": [
+      "sensitive"
+    ],
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "CJ 공식 브링그린 베스트셀러와 2025년 한정 범위 매출 안내",
+        "award_category": null,
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://corp.oliveyoung.com/ko/business/brand/bringgreen"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EB%B8%8C%EB%A7%81%EA%B7%B8%EB%A6%B0%20%EC%A7%95%ED%81%AC%ED%85%8C%EC%B9%B4%20%ED%8A%B8%EB%9F%AC%EB%B8%94%20%EC%84%B8%EB%9F%BC%2025ml",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://corp.oliveyoung.com/ko/business/brand/bringgreen"
+    ],
+    "evidence": "CJ가 2025년 1~11월 스킨케어 중 이름에 트러블이 포함된 상품의 매출 1위로 안내했다. 트러블 배정은 자체 큐레이션이다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영. 공식 누적 판매 기준에 기재된 25ml 단품; 정가 확인 필요",
+    "unverified_fields": [
+      "price_krw",
+      "price_source",
+      "unit_price",
+      "key_ingredient_ids",
+      "functional_cosmetic",
+      "sensitive"
+    ]
+  },
+  {
+    "id": "oliveyoung-goodal-green-tangerine-vitac-serum-alpha-30",
+    "shop": "oliveyoung",
+    "concern_id": "brightening",
+    "rank_in_group": 1,
+    "brand": "구달",
+    "name": "청귤 비타C 잡티 케어 세럼 알파 30ml",
+    "price_krw": 28000,
+    "price_source": "brand_official",
+    "volume_value": 30,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 9333,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "award",
+        "title": "구달, 올리브영 어워즈 7년 연속 수상",
+        "award_category": "에센스·세럼",
+        "award_rank": null,
+        "published_at": "2025-11-28",
+        "source_url": "https://www.ktnews.com/news/articleView.html?idxno=142597"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EA%B5%AC%EB%8B%AC%20%EC%B2%AD%EA%B7%A4%20%EB%B9%84%ED%83%80C%20%EC%9E%A1%ED%8B%B0%20%EC%BC%80%EC%96%B4%20%EC%84%B8%EB%9F%BC%20%EC%95%8C%ED%8C%8C%2030ml",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://cjnews.cj.net/%EB%AA%A8%EB%91%90%EA%B0%80-%EC%82%AC%EB%9E%91%ED%95%9C-%EC%A0%9C%ED%92%88%EC%9D%84-%EB%AA%A8%EB%91%90%EA%B0%80-%EC%82%AC%EB%9E%91%ED%95%A0-%ED%98%9C%ED%83%9D%EC%9C%BC%EB%A1%9C-cj/",
+      "https://www.ktnews.com/news/articleView.html?idxno=142597",
+      "https://clubclio.co.kr/shop/goodsView/0000003511"
+    ],
+    "evidence": "2025 어워즈 7년 연속 수상 보도와 공식 30ml 옵션을 확인했다. 부문→미백·잡티 매핑은 자체 큐레이션이며 수상 세부 순위는 미확인이다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영. 브랜드 공식몰 정가 기준, 올리브영 판매가와 다를 수 있음. 30ml 단품; 어워즈 증정·더블기획과 구분",
+    "unverified_fields": [
+      "key_ingredient_ids",
+      "functional_cosmetic",
+      "sensitive",
+      "skin_types"
+    ]
+  },
+  {
+    "id": "oliveyoung-mediheal-madecassoside-repair-serum-100",
+    "shop": "oliveyoung",
+    "concern_id": "brightening",
+    "rank_in_group": 2,
+    "brand": "메디힐",
+    "name": "마데카소사이드 흔적 리페어 세럼 100ml",
+    "price_krw": 45000,
+    "price_source": "brand_official",
+    "volume_value": 100,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 4500,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [
+      "madecassoside"
+    ],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "메디힐 공식몰 세럼 판매 랭킹 안내",
+        "award_category": null,
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://www.medihealshop.com/"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EB%A9%94%EB%94%94%ED%9E%90%20%EB%A7%88%EB%8D%B0%EC%B9%B4%EC%86%8C%EC%82%AC%EC%9D%B4%EB%93%9C%20%ED%9D%94%EC%A0%81%20%EB%A6%AC%ED%8E%98%EC%96%B4%20%EC%84%B8%EB%9F%BC%20100ml",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.medihealshop.com/"
+    ],
+    "evidence": "공식몰은 2026년 3월 20일 10시 올리브영 온라인 전체 판매 1위를 안내한다. 특정 시점 근거이며 미백·잡티 배정은 자체 큐레이션이다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영. 브랜드 공식몰 정가 기준, 올리브영 판매가와 다를 수 있음. 공식몰 대용량 100ml 옵션; 40ml 제품과 구분",
+    "unverified_fields": [
+      "functional_cosmetic",
+      "sensitive",
+      "skin_types"
+    ]
+  },
+  {
+    "id": "oliveyoung-biohealboh-probioderm-3d-lifting-cream",
+    "shop": "oliveyoung",
+    "concern_id": "wrinkle",
+    "rank_in_group": 1,
+    "brand": "바이오힐 보",
+    "name": "프로바이오덤 3D 리프팅 크림",
+    "price_krw": null,
+    "price_source": null,
+    "volume_value": null,
+    "volume_unit": null,
+    "unit_price": null,
+    "key_ingredient_ids": [],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "CJ 공식 바이오힐 보 베스트셀러 소개",
+        "award_category": null,
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://corp.oliveyoung.com/ko/business/brand/boh"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EB%B0%94%EC%9D%B4%EC%98%A4%ED%9E%90%20%EB%B3%B4%20%ED%94%84%EB%A1%9C%EB%B0%94%EC%9D%B4%EC%98%A4%EB%8D%A4%203D%20%EB%A6%AC%ED%94%84%ED%8C%85%20%ED%81%AC%EB%A6%BC",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://corp.oliveyoung.com/ko/business/brand/boh"
+    ],
+    "evidence": "CJ 공식 베스트셀러다. 매출 1위 안내는 기존·3D 크림 합산 근거이며 단일 SKU 순위가 아니다. 주름·탄력 배정은 자체 큐레이션이다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영. 대표 용량과 정가 확인 필요",
+    "unverified_fields": [
+      "price_krw",
+      "price_source",
+      "volume_value",
+      "volume_unit",
+      "unit_price",
+      "key_ingredient_ids",
+      "functional_cosmetic",
+      "sensitive",
+      "skin_types"
+    ]
+  },
+  {
+    "id": "oliveyoung-bringgreen-tea-tree-cica-soothing-toner",
+    "shop": "oliveyoung",
+    "concern_id": "pore",
+    "rank_in_group": 1,
+    "brand": "브링그린",
+    "name": "티트리 시카 수딩 토너",
+    "price_krw": null,
+    "price_source": null,
+    "volume_value": null,
+    "volume_unit": null,
+    "unit_price": null,
+    "key_ingredient_ids": [],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": [
+      "sensitive"
+    ],
+    "rank_basis": [
+      {
+        "kind": "official",
+        "title": "CJ 공식 브링그린 티트리 시카 토너 누적 판매 안내",
+        "award_category": null,
+        "award_rank": null,
+        "published_at": null,
+        "source_url": "https://corp.oliveyoung.com/ko/business/brand/bringgreen"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EB%B8%8C%EB%A7%81%EA%B7%B8%EB%A6%B0%20%ED%8B%B0%ED%8A%B8%EB%A6%AC%20%EC%8B%9C%EC%B9%B4%20%EC%88%98%EB%94%A9%20%ED%86%A0%EB%84%88",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://corp.oliveyoung.com/ko/business/brand/bringgreen"
+    ],
+    "evidence": "CJ는 2021~2025년 기획·단품 합산 누적 200만병을 안내한다. 피지 관련 공식 설명에 따른 모공·피지 배정은 자체 큐레이션이다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영. 대표 용량과 정가 확인 필요; 판매량은 기획·단품 합산",
+    "unverified_fields": [
+      "price_krw",
+      "price_source",
+      "volume_value",
+      "volume_unit",
+      "unit_price",
+      "key_ingredient_ids",
+      "functional_cosmetic",
+      "sensitive"
+    ]
+  },
+  {
+    "id": "oliveyoung-roundlab-birch-moisturizing-sunscreen-50",
+    "shop": "oliveyoung",
+    "concern_id": "sun",
+    "rank_in_group": 1,
+    "brand": "라운드랩",
+    "name": "자작나무 수분 선크림 50ml",
+    "price_krw": 25000,
+    "price_source": "brand_official",
+    "volume_value": 50,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 5000,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "award",
+        "title": "2025 올리브영 어워즈 발표: 부문별 1위 제품",
+        "award_category": "선케어",
+        "award_rank": "1위",
+        "published_at": "2025-12-24",
+        "source_url": "https://www.insight.co.kr/news/535111"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EB%9D%BC%EC%9A%B4%EB%93%9C%EB%9E%A9%20%EC%9E%90%EC%9E%91%EB%82%98%EB%AC%B4%20%EC%88%98%EB%B6%84%20%EC%84%A0%ED%81%AC%EB%A6%BC%2050ml",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://cjnews.cj.net/%EB%AA%A8%EB%91%90%EA%B0%80-%EC%82%AC%EB%9E%91%ED%95%9C-%EC%A0%9C%ED%92%88%EC%9D%84-%EB%AA%A8%EB%91%90%EA%B0%80-%EC%82%AC%EB%9E%91%ED%95%A0-%ED%98%9C%ED%83%9D%EC%9C%BC%EB%A1%9C-cj/",
+      "https://www.insight.co.kr/news/535111",
+      "https://roundlab.co.kr/product/%EC%9E%90%EC%9E%91%EB%82%98%EB%AC%B4-%EC%88%98%EB%B6%84-%EC%84%A0%ED%81%AC%EB%A6%BC-50ml/138/"
+    ],
+    "evidence": "2025 어워즈 선케어 1위와 브랜드 공식몰의 50ml 정가를 확인했다. 부문→자외선 차단 매핑은 자체 큐레이션이다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영. 브랜드 공식몰 정가 기준, 올리브영 판매가와 다를 수 있음",
+    "unverified_fields": [
+      "key_ingredient_ids",
+      "functional_cosmetic",
+      "sensitive",
+      "skin_types"
+    ]
+  },
+  {
+    "id": "oliveyoung-goodal-heartleaf-moisture-sunscreen-duo",
+    "shop": "oliveyoung",
+    "concern_id": "sun",
+    "rank_in_group": 2,
+    "brand": "구달",
+    "name": "맑은 어성초 진정 수분 선크림 50ml 1+1 기획",
+    "price_krw": 22000,
+    "price_source": "brand_official",
+    "volume_value": 100,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 2200,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "award",
+        "title": "구달, 올리브영 어워즈 7년 연속 수상",
+        "award_category": "선케어",
+        "award_rank": null,
+        "published_at": "2025-11-28",
+        "source_url": "https://www.ktnews.com/news/articleView.html?idxno=142597"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EA%B5%AC%EB%8B%AC%20%EB%A7%91%EC%9D%80%20%EC%96%B4%EC%84%B1%EC%B4%88%20%EC%A7%84%EC%A0%95%20%EC%88%98%EB%B6%84%20%EC%84%A0%ED%81%AC%EB%A6%BC%2050ml%201%2B1%20%EA%B8%B0%ED%9A%8D",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://cjnews.cj.net/%EB%AA%A8%EB%91%90%EA%B0%80-%EC%82%AC%EB%9E%91%ED%95%9C-%EC%A0%9C%ED%92%88%EC%9D%84-%EB%AA%A8%EB%91%90%EA%B0%80-%EC%82%AC%EB%9E%91%ED%95%A0-%ED%98%9C%ED%83%9D%EC%9C%BC%EB%A1%9C-cj/",
+      "https://www.ktnews.com/news/articleView.html?idxno=142597",
+      "https://clubclio.co.kr/shop/goodsView/0000007115"
+    ],
+    "evidence": "2025 어워즈 선케어 수상 보도와 공식몰 50ml 2개 구성을 확인했다. 세부 순위는 미공개이며 부문→자외선 차단 매핑은 자체 큐레이션이다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영. 브랜드 공식몰 정가 기준, 올리브영 판매가와 다를 수 있음. 50ml 2개 총 100ml 기획; 어워즈 증정 기획과 구성은 다를 수 있음",
+    "unverified_fields": [
+      "key_ingredient_ids",
+      "functional_cosmetic",
+      "sensitive",
+      "skin_types"
+    ]
+  },
+  {
+    "id": "oliveyoung-roundlab-1025-dokdo-toner-200",
+    "shop": "oliveyoung",
+    "concern_id": "soothing",
+    "rank_in_group": 3,
+    "brand": "라운드랩",
+    "name": "1025 독도 토너 200ml",
+    "price_krw": 15000,
+    "price_source": "brand_official",
+    "volume_value": 200,
+    "volume_unit": "ml",
+    "unit_price": {
+      "value": 750,
+      "basis": "10ml"
+    },
+    "key_ingredient_ids": [],
+    "functional_cosmetic": null,
+    "sensitive": {
+      "fragrance": null,
+      "ethanol": null,
+      "source_url": null
+    },
+    "skin_types": null,
+    "rank_basis": [
+      {
+        "kind": "award",
+        "title": "2025 올리브영 어워즈 발표: 부문별 1위 제품",
+        "award_category": "토너",
+        "award_rank": "1위",
+        "published_at": "2025-12-24",
+        "source_url": "https://www.insight.co.kr/news/535111"
+      }
+    ],
+    "purchase_url": "https://www.oliveyoung.co.kr/store/search/getSearchMain.do?query=%EB%9D%BC%EC%9A%B4%EB%93%9C%EB%9E%A9%201025%20%EB%8F%85%EB%8F%84%20%ED%86%A0%EB%84%88%20200ml",
+    "purchase_url_kind": "search",
+    "source_urls": [
+      "https://www.insight.co.kr/news/535111",
+      "https://roundlab.co.kr/product/1025-%EB%8F%85%EB%8F%84-%ED%86%A0%EB%84%88-200ml/22/"
+    ],
+    "evidence": "2025 어워즈 토너 1위 보도와 공식몰 200ml 정가를 확인했다. 부문→진정·민감 매핑은 자체 큐레이션이며 전성분은 미확인이다.",
+    "checked_at": "2026-10-22",
+    "price_note": "변동 가능, 할인 미반영. 브랜드 공식몰 정가 기준, 올리브영 판매가와 다를 수 있음. 200ml 단품; 기획·증정 구성과 구분",
+    "unverified_fields": [
+      "key_ingredient_ids",
+      "functional_cosmetic",
+      "sensitive",
+      "skin_types"
+    ]
+  }
+]

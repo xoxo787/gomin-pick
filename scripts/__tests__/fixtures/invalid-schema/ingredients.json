@@ -1,0 +1,39 @@
+[
+  {
+    "id": "ceramide",
+    "name_ko": "세라마이드",
+    "name_inci": "Ceramide NP",
+    "aliases": [
+      "세라마이드엔피"
+    ],
+    "concern_ids": [
+      "moisture"
+    ],
+    "functional": null,
+    "evidence": {
+      "status": "reference",
+      "note": "테스트 참고 자료",
+      "source_url": "https://example.org/ingredient"
+    }
+  },
+  {
+    "id": "niacinamide",
+    "name_ko": "나이아신아마이드",
+    "name_inci": null,
+    "aliases": [],
+    "concern_ids": [
+      "brightening"
+    ],
+    "functional": {
+      "category": "whitening",
+      "notice_name": "테스트 고시 원료명",
+      "limit": "2~5%",
+      "source_url": "https://example.org/notice"
+    },
+    "evidence": {
+      "status": "official",
+      "note": "검사 형식 확인을 위한 예시",
+      "source_url": "https://example.org/evidence"
+    }
+  }
+]
